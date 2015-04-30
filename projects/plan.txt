@@ -1,0 +1,48 @@
+make a program with classes
+
+games and misc program 
+choose from:
+
+	roll some dice
+	guess the number
+	hangman
+	paper, scissors, stone
+	pontoon
+	countdown clock (how long until?)
+	
+
+they should mostly all have:
+	
+	numerical analysis
+	running scores
+	end of game results (how many tries etc.)
+
+where sensible
+
+game start
+
+	ask which game you would like to play then list each one with a number:
+		1. Guess the number
+		2. Hangman
+		3. Pontoon 
+		etc.
+
+guess the number
+
+	pick a range: 1-10,1-100,1-1000 etc
+	computer picks a number in the range
+	you guess a number
+	computer returns either:
+		out of range print "Out of the range"
+		split the whole range into 
+			1/2
+			1/4
+			1/8
+		then if the guess is within
+			+/- 1/2 print "Bit close"
+			+/- 1/4 print "Quite close"
+			+/- 1/8 print "Very close"
+	else print "Try again"	
+
+
+

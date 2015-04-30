@@ -1,0 +1,11 @@
+Plan of action
+
+Learn how to write CSVs
+
+Learn how to make data that fits a certain distribution
+	Like lines and functions etc
+	Data with high variance but with a small pattern
+
+Output various things from python into a CSV to make a random model of something
+
+plot with the pairs() function in R

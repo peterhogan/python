@@ -1,0 +1,8 @@
+1. Did you start the function definition with def?
+2. Does the function name only have characters and underscores?
+3. Did you put an open bracket after the function name?
+4. Did you put your arguments after the bracket, separated by commas?
+5. Did you make each argument unique?
+6. Did you put a sad face after the arguments ":(" ?
+7. Did you indent all lines of code you want in the function (four spaces or tab)? 
+8. Did you end your function by going back to writing with no indent?

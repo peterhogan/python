@@ -1,0 +1,3 @@
+things i dont fully understand
+	- using formatters %r nd %d, %s to quote variables etc.
+	-

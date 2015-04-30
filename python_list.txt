@@ -1,0 +1,25 @@
+print - prints out what you put after it in single or double quotes, a string
+
+# - comment: python doesn't touch anything after one of these
+
+arithmetic operations - python can handle +,-,*,/ and a (mod n) which is written a % n.
+
+inequalities - python evaluates >,<,<= and >= as logical statements.
+
+= - equals defines a variable
+
+% - % in a string denotes a formatter, a letter following it tells you what kind of formatter it is, % after a printed string followed by varibales tells you which variables should be quoted in the string and in which order (the order given).
+
+, -  a comma ignores a physical line break and runs two lines together.
+
+""" or ''' - prints a multiple line string
+
+\n,\v etc - escape sequences enable you to print various things in a string that would be impossible otherwise like \, or ".
+
+raw_input() - enables you to get some input from the user, you can assign a variable to the input so you can use in it the script. You can write within the brackets to prompt a user: raw_input("Type here ---> ")
+
+importing features - eg: from sys import argv.
+
+def - define a function using the function checklist.
+
+return - in a function you can use this to evaluate the inputs with the function and RETURN the result, this can then be assigned to a variable for instance.
