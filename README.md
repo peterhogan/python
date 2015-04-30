@@ -1,2 +1,1 @@
-# python
-print "Hello world!"
+Learning python
