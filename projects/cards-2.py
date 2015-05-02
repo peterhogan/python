@@ -1,37 +1,35 @@
 from random import shuffle
 from time import sleep
 
-#suits = ['H','C','D','S']  # These are the suits - these can be made into unicode suits later
-suits = [u'\u2665',u'\u2663',u'\u2666',u'\u2660']
-ranks = ['A',2,3,4,5,6,7,8,9,10,'J','Q','K'] # These are the ranks that will probably need to be translated into numbers to add up values (partic ace)
+#suits = ['H','C','D','S']  # These are the text suits
+suits = [u'\u2665',u'\u2663',u'\u2666',u'\u2660'] # These are the unicode suits
+ranks = ['A',2,3,4,5,6,7,8,9,10,'J','Q','K'] # These are the card ranks used to build the deck
 
-#print ranks[0], ranks[-1], ranks[-2], ranks[-3]
-
-def deal(player):
-	if len(deck) > 0:
-		card = deck[0]
-		player.append(deck.pop(0)) # This function deals a card and removes it from the deck
-		return str(card[0])+card[1]
-	else:
-		print 'Out of cards, reshuffling...'
-		sleep(0.5)
-		print '...'
-		sleep(0.5)
-		build()
+# The function that deals the cards and also checks there are cards to deal in a given deck
+def deal(player, deck):
+	if deck == []:
+		print "No more cards"
+		build(deck)
 		shuffle(deck)
-		card = deck[0]
-		player.append(deck.pop(0)) # This function deals a card and removes it from the deck
-		return str(card[0])+card[1]
+		print "Rebuilding deck ..."
+		sleep(1)
+		print "...Done!"
+	card = deck[0]
+	player.append(deck.pop(0)) # This function deals a card and removes it from the deck
+	return str(card[0])+card[1]
 
-
+# This function counts the value of the hand
 def handval(hand):
 	value = 0
-	count_aces = [hand[i][0] for i in range(len(hand))].count('A')
+	count_aces = 0
 	for i in hand:
+		#print "Evaluating card: %r" % i[0]
+		#print "Count Aces: %d" % count_aces
 		if i[0] == 'A':
 			if value + 11 > 21:
 				value += 1
 			else:
+				count_aces += 1
 				value += 11
 
 		elif  i[0]=='J' or i[0]=='Q' or i[0]=='K':
@@ -46,8 +44,10 @@ def handval(hand):
 				count_aces -= 1
 			else:
 				value += int(i[0])
+		#print "Hand Value: %d" % value
 	return value
 
+# Prints a small summary of the cards the player has and their value
 def summary(player, name):
 	hand = [str(player[i][0])+player[i][1] for i in range(len(player))]
 	print "Cards for %s:" % name
@@ -55,24 +55,31 @@ def summary(player, name):
 	sleep(1)
 	print "With value %i." % handval(player)
 
-def build():
-	deck = []
+# builds a deck of cards from the given ranks and suits
+def build(deckname):
 	for suit in suits:
        		for i in ranks:
-                	deck.append((i,suit)) # build the deck by cycling through the suits and the ranks
-	return deck
+                	deckname.append((i,suit)) # build the deck by cycling through the suits and the ranks
+	return deckname
 
+# Determines who wins by who isn't bust and then the highest score
 def whowins(you, dealer):
 	if bust == True or (bust == False and dealerbust == False and handval(you) < handval(dealer)):
-		print "Winner: Dealer"
+		return "Winner: Dealer"
 	elif dealerbust == True or (dealerbust == False and bust == False and handval(dealer) < handval(you)):
-		print "Winner: You"
+		return "Winner: You"
 	elif handval(you)==handval(dealer):
-		print "Push."
-deck = build()
-wallet = 0
+		return "Push."
 
-shuffle(deck) # shuffle the deck
+######################  Start the game! ############################
+deck1=[]
+build(deck1)
+wallet = 1000
+#wallet = input("How much have you got? $")
+print "you've got $%d in the bank." % wallet
+
+
+shuffle(deck1) # shuffle the deck
 
 again = True
 
@@ -80,13 +87,21 @@ while again == True:
 
 	you = []
 	dealer = []
-
+ 	if wallet == 0:
+		quit("Out of money!... No loans here")
+	print 'place your bets ... '
+	bet = input('$')
+	while bet > wallet:
+		print "Please only bet what you have in your wallet..."
+		bet = input('$')
+	wallet -= bet
+	
 	dealersgo = True
 
-	deal(you)
-	deal(dealer)
-	deal(you)
-	deal(dealer)
+	deal(you, deck1)
+	deal(dealer, deck1)
+	deal(you, deck1)
+	deal(dealer, deck1)
 
 	summary(you, 'you')
 	print ""
@@ -97,6 +112,7 @@ while again == True:
 	sleep(1)
 	if handval(you) == 21:
 		print "Pontoon!!"
+		wallet += bet*2
 		dealersgo = False
 		yourgo = False
 	else:
@@ -104,10 +120,10 @@ while again == True:
 	bust=False
 
 	while yourgo == True:
-		print '------' 
+		print '------ Wallet: $%d ------' % wallet 
 		prompt = raw_input("Stick (s) or twist (t)? ")
 		if prompt == 't':
-			print deal(you), "is drawn .. "
+			print deal(you,deck1), "is drawn .. "
 			sleep(1)
 			if handval(you) < 22:
 				summary(you, 'you')
@@ -130,7 +146,7 @@ while again == True:
 		print "Dealer's turn..."
 		sleep(2)
 		if handval(dealer)<17:
-			print deal(dealer), 'is drawn .. '
+			print deal(dealer,deck1), 'is drawn .. '
 			sleep(1)
 			summary(dealer, 'dealer')	
 		elif handval(dealer) > 16 and handval(dealer) <21:
@@ -145,32 +161,32 @@ while again == True:
 			dealersgo = False
 	sleep(1)
 
-	whowins(you,dealer)
+	win = whowins(you,dealer)
+	print win
 
 	# add one point to whoever wins' score or give the winnings to whoever
+	if win == "Winner: Dealer": 
+		print "You lose $%d" % bet
+		print "Wallet: $%d" % wallet
+	elif win == "Winner: You": 
+		print "You win $%d" % bet 
+		wallet += 2*bet
+		print "Wallet: $%d" % wallet
+	elif win == "Push.":
+		wallet += bet
+		print "Wallet: $%d" % wallet 
+	
 
 	playprompt = raw_input("Play again? (y/n) ")
 	if playprompt == 'y':
-		shuffleq = raw_input("Shuffle deck? (y/n) ")
-		if shuffleq == 'y':
-			shuffle(deck)
-		else:
-			pass
+		#shuffleq = raw_input("Shuffle deck? (y/n) ")
+		#shuffleq = 'n' 
+		#if shuffleq == 'y':
+		#	shuffle(deck)
+		#else:
+		#	pass
 		again = True
 	else:
 		again = False
+		print "You took away $%d" % wallet
 		quit("Bye!")
-
-
-
-class Player:
-
-	bust = False
-
-	def __init__(self):
-		pass
-
-	def deal(player):
-		player.append(deck.pop(0))	
-	
-

@@ -55,8 +55,8 @@ while again == 'y':
 	if guess_lc in current_word:
 		print "Correct!"
 		where = [i for i,j in enumerate(current_word_letters) if j == guess_lc] 
-		for i in obs_word:
-			obs_word.replace(
+		#for i in obs_word:
+		#	obs_word.replace(
 		for i in where:
 			del obs_word[i]
 		for i in where:
