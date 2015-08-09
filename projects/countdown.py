@@ -1,21 +1,42 @@
-import time
-import datetime
-import random
+from itertools import permutations
+import enchant
+from random import shuffle
+from time import clock
 
-today = time.strftime("%d/%m/%y", time.gmtime()) 
-now = time.strftime("%H:%M:%S", time.gmtime()) 
 
-print "It's %s, on %s." % (now, today)
-print "Pick a date in the future."
-yearfut = input("Pick a year: ")
-monthfut = input("Pick a month: ")
-dayfut = input("Pick a day in that month: ")
 
-futdate = datetime.time(yearfut, monthfut, dayfut)
-print futdate
+d = enchant.Dict("en_GB")
+words = []
+letters = []
+const = list("bcdfghjklmnpqrstvwxyz"*9)
+shuffle(const)
+vow = list("aeiou"*9)
+shuffle(vow)
 
-diff = futdate - today
-print diff
+while len(letters) < 9:
+	choice = input("Vowel or Consonant? (v/c) ")
+	if choice == 'v':
+		letters.append(vow.pop(0))
+		print(letters)
+	else:
+		letters.append(const.pop(0))
+		print(letters)
 
-print "Your date, %s, is %s in the future." % (futdate, diff)
 
+#word = ''.join(letters)
+word = input("enter the word: ")
+
+upper = int(input("smallest length word? "))
+
+start = clock()
+
+for i in range(upper,len(list(word))+1):
+	print("Checking", i,"letter words",end="\r")
+	for j in list(permutations(list(word),r=i)):
+		if d.check(''.join(j))==True and ''.join(j) not in words:
+			#print(''.join(j))
+			words.append(''.join(j))
+
+print(clock()-start, "seconds taken.")
+
+print(', '.join(words))
