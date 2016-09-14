@@ -1,0 +1,14 @@
+line 1: hello line 1
+line 2: this is line 2
+some python script:
+for i in range(10):
+	print i**i
+
+1
+a
+2
+b
+3
+c
+4
+d

@@ -1,0 +1,10 @@
+from numpy import prod
+
+n = input("Give a number to factorise: ")
+
+def factors(n):
+
+	factor_list = []
+
+	while prod(factor_list) != n:
+		factor_list.append(brent(n))

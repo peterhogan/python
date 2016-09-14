@@ -1,0 +1,7 @@
+how do you find prime factors?
+
+start with a number
+
+generate a list of all primes up to the square root of the number
+
+so find  
