@@ -20,7 +20,7 @@ headline6 = tree.xpath(path6+'/text()')
 headers = [headline2,headline3,headline4,headline6]
 
 
-print('Headline: ', headline[0])
+#print('Headline: ', headline[0])
 sleep(1)
 for heads in headers:
     for article in heads:
