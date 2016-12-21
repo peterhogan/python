@@ -65,6 +65,8 @@ for feed in rssfeeds:
             shutil.copyfileobj(response, output_file)
             total_size += int(os.stat(feedoutput_name).st_size)
         inc+=1
+    elif feed.startswith('IGNORE'):
+        print('Ignoring feed: %s' % (feed))
     else:
         print('Now downloading feeds from',feed)
         feed_tag=feed[3:].replace(" ","")
