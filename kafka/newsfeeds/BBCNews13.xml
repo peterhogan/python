@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - UK]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 21 Dec 2016 15:01:25 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[EU data retention ruling goes against UK government]]></title>
+            <description><![CDATA[The EU Court rules against the UK government over communications data retention.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390150</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390150</guid>
+            <pubDate>Wed, 21 Dec 2016 13:58:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4BF4/production/_90444491_mediaitem90444487.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Berlin attacks: Palace roads closed in security review]]></title>
+            <description><![CDATA[Roads around Buckingham Palace will close for changing the guard as security tightens.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38376534</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38376534</guid>
+            <pubDate>Wed, 21 Dec 2016 13:05:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14E0C/production/_93061558_mediaitem93061557.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millionaire gets life for escort Georgina Symonds' murder]]></title>
+            <description><![CDATA[A millionaire has been sentenced to life in prison for murdering his £10,000-a-month personal escort after hearing she planned to leave him.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38390909</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38390909</guid>
+            <pubDate>Wed, 21 Dec 2016 14:53:14 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/12206/production/_93064247_millionairemurdercomp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Falklands War: UK and Argentina sign deal to identify dead]]></title>
+            <description><![CDATA[The UK and Argentina sign a deal to identify 123 Argentine soldiers buried on the Falkland Islands.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38387271</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38387271</guid>
+            <pubDate>Wed, 21 Dec 2016 09:40:00 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/16BBC/production/_93061139_hi036972693.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Graduates fast-tracked into prison service]]></title>
+            <description><![CDATA[Ministers back a new scheme to get graduates working in the prison service.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38392077</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38392077</guid>
+            <pubDate>Wed, 21 Dec 2016 13:21:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/66E0/production/_93063362_prisdoor.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen and Duke delay trip to Sandringham]]></title>
+            <description><![CDATA[The Queen and Prince Philip cancel plans to go to Sandringham in Norfolk on Wednesday due to colds.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38394780</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38394780</guid>
+            <pubDate>Wed, 21 Dec 2016 14:36:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/83E6/production/_93066733_royal_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deloitte apologises for Brexit memo]]></title>
+            <description><![CDATA[A consultancy firm apologises for a leaked memo suggesting ministers had no plan for Brexit.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390147</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390147</guid>
+            <pubDate>Wed, 21 Dec 2016 09:41:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1727B/production/_93034849_a0a514f1-a784-46b8-8595-e90197dfc3d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour MP Jamie Reed quitting Parliament]]></title>
+            <description><![CDATA[Labour MP Jamie Reed is quitting Parliament to take a job in the nuclear industry.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390152</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390152</guid>
+            <pubDate>Wed, 21 Dec 2016 14:27:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14FC4/production/_93065958_e90860a5-3207-41ea-bd00-2e9c78eade08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dog and owner rescued from 'extreme danger' sluice gate]]></title>
+            <description><![CDATA[A dog and its owner are rescued after becoming trapped in more than four metres of water in a sluice gate.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-cambridgeshire-38392025</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-cambridgeshire-38392025</guid>
+            <pubDate>Wed, 21 Dec 2016 14:04:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BBFE/production/_93062184_sluice1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emmerdale dementia episode praised by Alzheimer's Society]]></title>
+            <description><![CDATA[ITV soap Emmerdale is praised by a leading dementia charity for its portrayal of the illness.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38389953</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38389953</guid>
+            <pubDate>Wed, 21 Dec 2016 10:53:07 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/EBEB/production/_93059306_emmerdaledementiapa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George North: Northampton Saints avoid sanction over head injury]]></title>
+            <description><![CDATA[Northampton Saints escape sanction following a review into their treatment of George North's latest head injury.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/38391557</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/38391557</guid>
+            <pubDate>Wed, 21 Dec 2016 14:55:24 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/14F38/production/_93061858_rexfeatures_6898161ag.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yacht fire among late tax return excuses]]></title>
+            <description><![CDATA[Excuses from people failing to submit their tax return included a claim that the paperwork was engulfed in a yacht fire.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38389969</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38389969</guid>
+            <pubDate>Wed, 21 Dec 2016 10:48:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/884F/production/_93059843_yacht.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millionaire escort murderer tells police 'I done it']]></title>
+            <description><![CDATA[Millionaire murderer Peter Morgan admits killing escort Georgina Symonds in a police interview at Ystrad Mynach Police Station.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38392868</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38392868</guid>
+            <pubDate>Wed, 21 Dec 2016 12:10:35 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/22D4/production/_93061980_mediaitem93061979.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diane James: Why I quit as UKIP leader after 18 days]]></title>
+            <description><![CDATA[The woman who led UKIP for just 18 days, Diane James, has broken her silence to explain why she quit as leader.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390277</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390277</guid>
+            <pubDate>Wed, 21 Dec 2016 09:16:40 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/13C6E/production/_93060018_p04m3237.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Schoolgirl Kayleigh Rogers wows audience with her voice]]></title>
+            <description><![CDATA[Kayleigh Rogers' version of Leonard Cohen's Hallelujah was the highlight of her school's Christmas concert.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38389374</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38389374</guid>
+            <pubDate>Wed, 21 Dec 2016 07:37:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E975/production/_93056795_f007171e-c722-44c7-ae2b-8509e67984df.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Theresa May dodges parliament Brexit vote committee query]]></title>
+            <description><![CDATA[The Prime Minister Theresa May is questioned on whether parliament will vote on a final Brexit deal.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38386612</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38386612</guid>
+            <pubDate>Tue, 20 Dec 2016 18:48:35 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/145FF/production/_93055438_p04m1s7h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Domestic abuse: 'I punched and kicked her - I blamed her for everything']]></title>
+            <description><![CDATA[Perpetrators of domestic abuse have been offered places on a course instead of a prison sentence, as part of a pilot scheme. One man tells his story.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38372375</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38372375</guid>
+            <pubDate>Tue, 20 Dec 2016 19:20:10 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A11C/production/_93044214_p04m0rrj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bristol zoo c-section gorilla Afia cuddles foster mum]]></title>
+            <description><![CDATA[Baby gorilla Afia born in a rare emergency caesarean section cuddles up to her surrogate mother.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38391527</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38391527</guid>
+            <pubDate>Wed, 21 Dec 2016 10:14:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1906/production/_93060460_p04m377g.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could attacks like the one in Berlin happen in the UK?]]></title>
+            <description><![CDATA[Our security correspondent Gordon Corera explains what security services are doing in Britain to keep us safe.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38389376</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38389376</guid>
+            <pubDate>Wed, 21 Dec 2016 09:28:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1268E/production/_93060457_p04m31sc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[Britain's most-watched news channel, delivering breaking news and analysis all day, every day.]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 16 Mar 2016 12:34:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Spaniels 'drunk' from lapping up Christmas booze]]></title>
+            <description><![CDATA[Two spaniels are in the dog house after being found lapping up their owners Christmas drink.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-tyne-38391337</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-tyne-38391337</guid>
+            <pubDate>Wed, 21 Dec 2016 11:47:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F93E/production/_93060836_mediaitem93060835.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bristol Zoo baby gorilla moves in with new mother]]></title>
+            <description><![CDATA[A hand-reared baby gorilla which was born 10 months ago is moved in with a surrogate mother.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-bristol-38390107</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-bristol-38390107</guid>
+            <pubDate>Wed, 21 Dec 2016 11:01:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11A22/production/_93062227_hi036969829.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: European alert as Berlin market truck killer on the run]]></title>
+            <description><![CDATA[The aftermath of the Berlin lorry attack features on the front pages with the police manhunt and a potential UK link among the stories.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-the-papers-38387246</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-the-papers-38387246</guid>
+            <pubDate>Wed, 21 Dec 2016 06:55:19 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/3D95/production/_93056751_index.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quad quandary]]></title>
+            <description><![CDATA[Coping with one baby is hard, but what about having four newborns all together? A mother with quadruplets has some advice for new parents.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38379801</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38379801</guid>
+            <pubDate>Tue, 20 Dec 2016 23:49:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2869/production/_93054301_quadrupletsthree.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Minimal consciousness]]></title>
+            <description><![CDATA[Advances in medicine have meant that many more people survive traumatic incidents than in the past.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38383338</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38383338</guid>
+            <pubDate>Wed, 21 Dec 2016 07:46:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/93FC/production/_93048873_thinkstockphotos-200470373-001.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fishermen's friend]]></title>
+            <description><![CDATA[Capturing the Scottish men who spend time at sea]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-38249308</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-38249308</guid>
+            <pubDate>Wed, 21 Dec 2016 02:30:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10DFF/production/_92891196_coatesjoanne_14.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strictly business]]></title>
+            <description><![CDATA[How do you relate to your colleagues? Do you socialise or do you keep your work and personal lives separate?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38224684</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38224684</guid>
+            <pubDate>Wed, 21 Dec 2016 00:30:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E609/production/_92998885_ps-phil-and-caroline-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cyber Christmas]]></title>
+            <description><![CDATA[Some of the smart home gifts wrapped up under Christmas trees could become a major headache in 2017 and beyond.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38364077</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38364077</guid>
+            <pubDate>Wed, 21 Dec 2016 03:05:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CDC0/production/_93027625_76188e14-bd19-40a4-b868-29e7b07b4c22.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We can't live in fear']]></title>
+            <description><![CDATA[How are those at England Christmas markets feeling in the wake of the Berlin attack?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38377408</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38377408</guid>
+            <pubDate>Tue, 20 Dec 2016 16:15:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DB6E/production/_93047165_gettyimages-456617501.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What about me?]]></title>
+            <description><![CDATA[Strike action across the UK is due to affect rail and air travel over the Christmas period.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38371089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38371089</guid>
+            <pubDate>Tue, 20 Dec 2016 18:42:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/141F8/production/_93042428_comp2.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[At-a-glance]]></title>
+            <description><![CDATA[The Scottish government has published what it would like to see happen after Brexit. Here is a summary of the 49-page long "Scotland's Place in Europe" paper.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-scotland-politics-38379916</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-scotland-politics-38379916</guid>
+            <pubDate>Tue, 20 Dec 2016 13:35:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/33A8/production/_93042231_flasg_pa.gif"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Wales]]></title>
+        <description><![CDATA[BBC News - Wales]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Wales</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 21 Dec 2016 14:56:15 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Millionaire gets life for escort Georgina Symonds' murder]]></title>
+            <description><![CDATA[A millionaire has been sentenced to life in prison for murdering his £10,000-a-month personal escort after hearing she planned to leave him.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38390909</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38390909</guid>
+            <pubDate>Wed, 21 Dec 2016 14:53:14 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/12206/production/_93064247_millionairemurdercomp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Worrying' waits for youth mental health services in Wales]]></title>
+            <description><![CDATA[More than one in 18 young people referred to mental health services in 2016 waited more than six months for a first appointment, a children's charity says.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38382147</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38382147</guid>
+            <pubDate>Wed, 21 Dec 2016 06:25:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/122F/production/_93055640_sadyouththinkstock.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wales 'behind England' on tackling mobile 'not-spots']]></title>
+            <description><![CDATA[Wales is lagging behind England in plugging mobile phone "not-spots" by easing restrictions on taller masts, the UK government claims.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-politics-38379849</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-politics-38379849</guid>
+            <pubDate>Wed, 21 Dec 2016 11:45:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CA78/production/_89123815_thinkstockphotos-479563078.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George North: Northampton Saints avoid sanction over head injury]]></title>
+            <description><![CDATA[Northampton Saints escape sanction following a review into their treatment of George North's latest head injury.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/38391557</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/38391557</guid>
+            <pubDate>Wed, 21 Dec 2016 14:55:24 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/14F38/production/_93061858_rexfeatures_6898161ag.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Struggle over Tata steel pensions argument]]></title>
+            <description><![CDATA[A deal to change Tata's pension scheme is proving harder to sell to staff than was expected, BBC Wales understands.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38383449</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38383449</guid>
+            <pubDate>Wed, 21 Dec 2016 11:41:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9C9E/production/_93049004_ptalbotgetty8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ioan Gruffudd: Edward I link for Hollywood actor]]></title>
+            <description><![CDATA[Hollywood actor Ioan Gruffudd discovers he is a direct descendant of Edward I, the king who conquered Wales, in a programme tracing his ancestry.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38382146</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38382146</guid>
+            <pubDate>Wed, 21 Dec 2016 06:36:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11EE5/production/_93054437_ioan-tenby.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woman arrested after girl hurt on busy Cardiff road]]></title>
+            <description><![CDATA[A woman is arrested of suspicion of causing serious injury by dangerous driving after a young girl was badly hurt on a busy Cardiff road.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-38392818</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-38392818</guid>
+            <pubDate>Wed, 21 Dec 2016 12:34:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3060/production/_93048321_capture.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lynford Brewster: Three men jailed for Cardiff murder]]></title>
+            <description><![CDATA[Three men found guilty of killing a man in broad daylight in Cardiff are jailed for the "callous" murder.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38394663</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38394663</guid>
+            <pubDate>Wed, 21 Dec 2016 13:38:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E802/production/_90049395_lynfordbrewsternewimage.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Language row over Aberystwyth Marks and Spencer sign]]></title>
+            <description><![CDATA[An application for a sign at the site of a Marks and Spencer branch due to open next year is deferred after a row over translation.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-mid-wales-38380163</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-mid-wales-38380163</guid>
+            <pubDate>Wed, 21 Dec 2016 11:31:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/28B9/production/_92652401_mediaitem87523868.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Homelessness: Welsh councils given extra £6m from budget]]></title>
+            <description><![CDATA[Another £6m to tackle homelessness is being given to local councils in Wales as the budget is finalised.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-politics-38390524</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-politics-38390524</guid>
+            <pubDate>Wed, 21 Dec 2016 11:47:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8D76/production/_92941263_homelessteenager.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Welsh Government to spend £19m on replacing south Wales schools]]></title>
+            <description><![CDATA[The Welsh Government announces plans to spend over £19m on two new school buildings for south Wales.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-38390937</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-38390937</guid>
+            <pubDate>Wed, 21 Dec 2016 11:35:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/84D6/production/_93060043_2599097_9f3acf7b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parry's Christmas card travels about 600,000 miles]]></title>
+            <description><![CDATA[A family split between Wales and Australia has been sending each other the same Christmas card for more than 60 years.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-north-east-wales-38387181</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-north-east-wales-38387181</guid>
+            <pubDate>Tue, 20 Dec 2016 23:14:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5CD5/production/_93056732_card.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millionaire escort murderer tells police 'I done it']]></title>
+            <description><![CDATA[Millionaire murderer Peter Morgan admits killing escort Georgina Symonds in a police interview at Ystrad Mynach Police Station.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38392868</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38392868</guid>
+            <pubDate>Wed, 21 Dec 2016 12:10:35 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/22D4/production/_93061980_mediaitem93061979.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Port Talbot steel workers 'worried for the future']]></title>
+            <description><![CDATA[A deal to change Tata's pension scheme is proving harder to sell to staff than was expected, BBC Wales understands.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38385782</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38385782</guid>
+            <pubDate>Wed, 21 Dec 2016 06:09:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/133A4/production/_93065787_p04m27kw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mobile not-spots: No reason to lag behind, Cairns says]]></title>
+            <description><![CDATA[Wales is lagging behind England in plugging mobile phone "not-spots" by easing restrictions on taller masts, the UK government claims.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-politics-38390522</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-politics-38390522</guid>
+            <pubDate>Wed, 21 Dec 2016 10:50:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15FA0/production/_93061009_p04m35rp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'm like a puppet to mental health - I hear voices']]></title>
+            <description><![CDATA[A teenager describes her experiences of mental health services after a charity says one in 18 young people waited more than six months for a first appointment.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38382155</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38382155</guid>
+            <pubDate>Wed, 21 Dec 2016 06:28:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12787/production/_93055657_p04m19mc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Port Talbot steelworkers 'railroaded' over Tata deal]]></title>
+            <description><![CDATA[Some workers feel railroaded over a deal which could secure the future of Tata's Port Talbot steelworks for the next five years, it is claimed.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38387137</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38387137</guid>
+            <pubDate>Wed, 21 Dec 2016 06:14:19 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C643/production/_93055705_p04m28cp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The journey of a Christmas card: From depot to Derek]]></title>
+            <description><![CDATA[BBC Wales sends a Christmas card to forecaster Derek Brockway and follows its journey.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38385775</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38385775</guid>
+            <pubDate>Wed, 21 Dec 2016 06:45:26 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/0CAD/production/_93054230_p04m1g9m.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turning your ear helps you hear, Cardiff Uni study finds]]></title>
+            <description><![CDATA[It may seem obvious, but turning your ear towards a person when they talk can vastly improve the understanding of speech in noisy environments, scientists find.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38392867</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38392867</guid>
+            <pubDate>Wed, 21 Dec 2016 12:51:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1164E/production/_93064217_hearingaid.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Epileptic Nantymoel teen's appeal gets 700 birthday cards]]></title>
+            <description><![CDATA[A teenager with epilepsy receives more than 700 cards for her 18th birthday following an appeal by her family.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-38385783</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-38385783</guid>
+            <pubDate>Tue, 20 Dec 2016 22:49:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/136CD/production/_93056597_holly3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miliwnydd yn euog o lofruddio ei gymar personol]]></title>
+            <description><![CDATA[Y miliwnydd Peter Morgan wedi ei gael yn euog o lofruddio ei gymar personol, Georgina Symonds ar ôl clywed ei bod yn bwriadu ei adael.]]></description>
+            <link>http://www.bbc.co.uk/newyddion/38342301</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newyddion/38342301</guid>
+            <pubDate>Wed, 21 Dec 2016 11:49:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13B04/production/_93044608_georgina_morgan_wns.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iechyd meddwl plant: Elusen yr NSPCC yn pryderu]]></title>
+            <description><![CDATA[Yr NSPCC yn dweud eu bod yn poeni fod pobl ifanc yn gorfod disgwyl cyn cael apwyntiad ar ôl cael eu cyfeirio at wasanaethau iechyd meddwl.]]></description>
+            <link>http://www.bbc.co.uk/newyddion/38383709</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newyddion/38383709</guid>
+            <pubDate>Wed, 21 Dec 2016 06:44:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/60DA/production/_93049742_iechydmeddwl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dolig y Sêr]]></title>
+            <description><![CDATA[Sut fydd rhai o enwogion Cymru yn dathlu'r Nadolig eleni?]]></description>
+            <link>http://www.bbc.co.uk/newyddion/38291388</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newyddion/38291388</guid>
+            <pubDate>Wed, 21 Dec 2016 09:46:37 GMT</pubDate>
+            <media:thumbnail width="1952" height="1098" url="http://c.files.bbci.co.uk/2125/production/_93058480_nadoligyser.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Coombs angry at Newport Gwent Dragons over insurance issue]]></title>
+            <description><![CDATA[Retired Wales rugby player Andrew Coombs is "devastated" his former region Newport Gwent Dragons ended his insurance policy.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/38389160</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/38389160</guid>
+            <pubDate>Wed, 21 Dec 2016 14:28:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9FB5/production/_93058804_cdf_040415_be_dragons_cardiffblues05.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cardiff Blues lock George Earle banned for eight weeks]]></title>
+            <description><![CDATA[Cardiff Blues lock George Earle is banned for eight weeks after making contact with the eye area of Bath's Tom Ellis in the European Challenge Cup.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/38384228</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/38384228</guid>
+            <pubDate>Wed, 21 Dec 2016 14:02:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/3741/production/_93054141_rexfeatures_7567133aq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manon Lloyd: Welsh cyclist motivated by Team GB Olympic success]]></title>
+            <description><![CDATA[Welsh cyclist Manon Lloyd is inspired by the success of Great Britain's women's cyclists at the 2016 Rio Olympics.]]></description>
+            <link>http://www.bbc.co.uk/sport/wales/38384669</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/wales/38384669</guid>
+            <pubDate>Wed, 21 Dec 2016 07:03:56 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/AA55/production/_93050634_manon.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leigh Halfpenny: 'Attractive deal' to tempt Toulon star back to Wales]]></title>
+            <description><![CDATA[Pro Rugby Wales chief Mark Davies says "everything possible" will be done to bring Leigh Halfpenny back to Wales.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/38386367</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/38386367</guid>
+            <pubDate>Wed, 21 Dec 2016 06:39:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15D29/production/_93058398_gettyimages-616076644.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millionaire and the escort]]></title>
+            <description><![CDATA[As a millionaire is found guilty of murdering his escort, how did he claim Asperger syndrome made him do it in what is believed to be the first case of its kind?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38314421</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38314421</guid>
+            <pubDate>Wed, 21 Dec 2016 12:14:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DC07/production/_92972365_wns_140116_georgina_symonds_murder_05x.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your Pictures in Wales: 14-20 December 2016]]></title>
+            <description><![CDATA[A weekly selection of your pictures from around Wales.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38325872</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38325872</guid>
+            <pubDate>Wed, 21 Dec 2016 06:45:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12F6C/production/_92967677_image1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Greatest Gift]]></title>
+            <description><![CDATA[A documentary series about organ donation centred on a Cardiff hospital was the hardest to make emotionally for its producer.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38365849</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38365849</guid>
+            <pubDate>Tue, 20 Dec 2016 07:20:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8E33/production/_93030463_greatestgift.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Foodie' to Apprentice]]></title>
+            <description><![CDATA[Alana Spencer's rise from a "foodie family" to to winning The Apprentice.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-mid-wales-38371169</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-mid-wales-38371169</guid>
+            <pubDate>Mon, 19 Dec 2016 17:42:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10CF5/production/_93035886_p04lvvcn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Creative Cymru]]></title>
+            <description><![CDATA[How much of the creative industries' success in Wales is fuelled by government subsidy and ministerial intervention?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38341349</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38341349</guid>
+            <pubDate>Mon, 19 Dec 2016 07:01:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FB71/production/_92996346_film.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dear Santa]]></title>
+            <description><![CDATA[More than two million cards, letters and parcel are sorted at Royal Mail's depot in Cardiff on Thursday - its busiest day of the year.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-east-wales-38335397</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-east-wales-38335397</guid>
+            <pubDate>Thu, 15 Dec 2016 22:21:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/107B5/production/_92990576_post.jpg"/>
+        </item>
+    </channel>
+</rss>

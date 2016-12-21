@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Business]]></title>
+        <description><![CDATA[BBC News - Business]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Business</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 21 Dec 2016 14:37:35 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Buy now, pay later' debts hitting young]]></title>
+            <description><![CDATA[Backdated interest is leaving many with big bills from "buy now, pay later" deals, a charity warns.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38378069</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38378069</guid>
+            <pubDate>Wed, 21 Dec 2016 00:06:44 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/6C7F/production/_93057772_receipt_bbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy approves a €20bn bailout plan for its banks]]></title>
+            <description><![CDATA[The Italian parliament has approved a government plan for a possible €20bn (£16.8bn) bailout of the country's banks.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38391967</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38391967</guid>
+            <pubDate>Wed, 21 Dec 2016 12:21:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1307E/production/_92905977_gettyimages-544864640.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Government borrowing falls less than expected in November]]></title>
+            <description><![CDATA[Government borrowing falls to £12.6bn in November, but the fall is less than analysts had expected.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38390121</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38390121</guid>
+            <pubDate>Wed, 21 Dec 2016 10:21:45 GMT</pubDate>
+            <media:thumbnail width="594" height="334" url="http://c.files.bbci.co.uk/6DC5/production/_92010182_591324592.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yacht fire among late tax return excuses]]></title>
+            <description><![CDATA[Excuses from people failing to submit their tax return included a claim that the paperwork was engulfed in a yacht fire.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38389969</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38389969</guid>
+            <pubDate>Wed, 21 Dec 2016 10:48:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/884F/production/_93059843_yacht.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sherry sales 'more than halve' over past decade]]></title>
+            <description><![CDATA[Sales of sherry have more than halved over the past decade, new figures suggest.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38389263</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38389263</guid>
+            <pubDate>Wed, 21 Dec 2016 08:59:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18123/production/_93059589_sherry.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CBI calls for barrier-free trade with EU after Brexit]]></title>
+            <description><![CDATA[UK companies must retain "barrier-free" access to European markets after Brexit, the CBI warns.]]></description>
+            <link>http://www.bbc.co.uk/news/38386548</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/38386548</guid>
+            <pubDate>Wed, 21 Dec 2016 00:35:17 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/15F09/production/_93056898_gettyimages-618575226.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JP Morgan fined £26m over interest rate cartel]]></title>
+            <description><![CDATA[Swiss authorities fine European and US banks for operating cartels in interest rate derivatives.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38389576</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38389576</guid>
+            <pubDate>Wed, 21 Dec 2016 12:54:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FTSE 100 drifts from two-month high]]></title>
+            <description><![CDATA[The FTSE 100 is little changed after closing at a two-month high on Tuesday.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38389556</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38389556</guid>
+            <pubDate>Wed, 21 Dec 2016 12:03:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18376/production/_86709199_sddhdp94.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Obama bans oil drilling 'permanently' in millions of acres of ocean]]></title>
+            <description><![CDATA[Barack Obama has permanently banned offshore drilling in the "vast majority" of northern US waters.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38387525</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38387525</guid>
+            <pubDate>Wed, 21 Dec 2016 06:35:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/179FD/production/_93056769_hi036970970.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deloitte apologises for Brexit memo]]></title>
+            <description><![CDATA[A consultancy firm apologises for a leaked memo suggesting ministers had no plan for Brexit.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390147</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390147</guid>
+            <pubDate>Wed, 21 Dec 2016 09:41:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1727B/production/_93034849_a0a514f1-a784-46b8-8595-e90197dfc3d7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pensions Regulator needs stronger powers, MPs say]]></title>
+            <description><![CDATA[The Pensions Regulator should have the power to fine rogue employers up to £1bn, MPs say.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38382003</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38382003</guid>
+            <pubDate>Wed, 21 Dec 2016 00:16:28 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/5E0B/production/_93057042_gettyimages-589068382.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Singapore convicts banker in 1MDB case]]></title>
+            <description><![CDATA[A Singapore banker has been convicted of helping launder money that had been diverted from Malaysian state investment fund 1MDB.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38388411</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38388411</guid>
+            <pubDate>Wed, 21 Dec 2016 09:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK airport staff call off 48-hour strike, union says]]></title>
+            <description><![CDATA[A strike by airport baggage handlers and check-in staff planned for 23 and 24 December is called off.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38386040</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38386040</guid>
+            <pubDate>Tue, 20 Dec 2016 22:36:49 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/AF91/production/_93054944_handlers_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nike's basketball business leads profit rebound]]></title>
+            <description><![CDATA[Nike, the world's biggest footwear maker, posts higher profit after its basketball business rebounds.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38387951</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38387951</guid>
+            <pubDate>Wed, 21 Dec 2016 01:47:55 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/176E5/production/_85737959_nike.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My Shop: 77 Diamonds and the impact of Christmas]]></title>
+            <description><![CDATA[We visit the online diamond store that does a roaring trade in the run-up to Christmas.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38380345</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38380345</guid>
+            <pubDate>Wed, 21 Dec 2016 00:32:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6940/production/_93044962_diamond1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RICS: Housing supply is 'a major constraint']]></title>
+            <description><![CDATA[RICS chief economist says housing supply still a major constraint for prices]]></description>
+            <link>http://www.bbc.co.uk/news/business-38389767</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38389767</guid>
+            <pubDate>Wed, 21 Dec 2016 08:06:26 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/150B3/production/_93059168_p04m2zst.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aaron Kirman: From learning disabilities to celebrity real estate]]></title>
+            <description><![CDATA[Aaron Kirman grew up with learning disabilities - and ended up working with celebrities and making over $3bn of real estate sales.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38364840</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38364840</guid>
+            <pubDate>Tue, 20 Dec 2016 02:18:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/7640/production/_93027203_p04lx28q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drone flies with artificial feathers in Switzerland]]></title>
+            <description><![CDATA[Engineers in Switzerland build a drone made with artificial feathers that can cope with strong winds and make sharp turns.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38384850</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38384850</guid>
+            <pubDate>Tue, 20 Dec 2016 15:51:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/728D/production/_93052392_p04m129k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['The best place to work at this time of year']]></title>
+            <description><![CDATA[Aaron Heslehurst speaks to the head toy demonstrator at Hamleys in London as the shop goes through its busiest time of year.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38364838</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38364838</guid>
+            <pubDate>Mon, 19 Dec 2016 10:54:03 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/0110/production/_93027200_p04lwlj5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social storage: The people profiting from surplus space]]></title>
+            <description><![CDATA[The traditional warehouse model of self-storage is under threat from "citizen storers".]]></description>
+            <link>http://www.bbc.co.uk/news/business-38341445</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38341445</guid>
+            <pubDate>Sun, 18 Dec 2016 00:34:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A9BC/production/_93025434_p04lp33d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Corner shops helped us to integrate']]></title>
+            <description><![CDATA[Lord Dolar Popat, who had his first shop in the 1970s and is now a multi-millionaire, talks about his early days.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38340010</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38340010</guid>
+            <pubDate>Mon, 19 Dec 2016 00:42:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/44EA/production/_93024671_lorddolarpopat.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CEO Secrets: Thomas Cook boss shares his tips]]></title>
+            <description><![CDATA[Peter Fankhauser, CEO of travel firm Thomas Cook, shares the business advice he wishes he had been given when he started out.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38288661</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38288661</guid>
+            <pubDate>Mon, 19 Dec 2016 00:41:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13F31/production/_92931718_p04l414w.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ikea says illegal teenage sleepovers must end]]></title>
+            <description><![CDATA[Ikea urges teenagers to stop having sleepovers in its stores, after a YouTube video went viral.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38390497</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38390497</guid>
+            <pubDate>Wed, 21 Dec 2016 11:26:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17F3A/production/_93060189_9afbed98-077d-4093-b916-a7fff73ed840.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strictly business]]></title>
+            <description><![CDATA[How do you relate to your colleagues? Do you socialise or do you keep your work and personal lives separate?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38224684</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38224684</guid>
+            <pubDate>Wed, 21 Dec 2016 00:30:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E609/production/_92998885_ps-phil-and-caroline-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality Check]]></title>
+            <description><![CDATA[MP Philip Davies said men were suffering from a part-time pay gap. But male workers earned 18% more overall this year.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38385259</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38385259</guid>
+            <pubDate>Wed, 21 Dec 2016 10:46:19 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/083A/production/_93060120_deli_thinkstock.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Catching up]]></title>
+            <description><![CDATA["We don't want to accept that we're doing badly at anything," says Argentina's education minister.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38367033</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38367033</guid>
+            <pubDate>Wed, 21 Dec 2016 00:42:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9396/production/_93028773_bullrich1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smart gloves, clever belts]]></title>
+            <description><![CDATA[How wearable technologies in the workplace are helping to reduce injuries and improve productivity.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38327436</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38327436</guid>
+            <pubDate>Tue, 20 Dec 2016 00:18:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/152E1/production/_93035768_pro_glove_0254.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IMF chief on trial]]></title>
+            <description><![CDATA[The events that led to IMF chief Christine Lagarde being tried for negligence in France.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38291281</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38291281</guid>
+            <pubDate>Mon, 19 Dec 2016 15:16:17 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/E02A/production/_87268375_gettyimages-136738472.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Travel strikes]]></title>
+            <description><![CDATA[Strike action across the UK is due to affect rail and air travel over the Christmas period.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38371089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38371089</guid>
+            <pubDate>Tue, 20 Dec 2016 18:42:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/141F8/production/_93042428_comp2.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Four hippies]]></title>
+            <description><![CDATA[How Bob Goldberg co-founded and grew US vegan food business Follow Your Heart, which has an annual turnover of more than $40m.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38248169</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38248169</guid>
+            <pubDate>Mon, 19 Dec 2016 01:03:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F955/production/_92892836_originalowners.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Engine of growth]]></title>
+            <description><![CDATA[Rudolf Diesel died in mysterious circumstances before he was able to capitalise on his ingenious invention.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38302874</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38302874</guid>
+            <pubDate>Mon, 19 Dec 2016 01:07:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/41A5/production/_92950861_976549istock-177528756.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Christmas of Discontent]]></title>
+            <description><![CDATA[With strikes on Southern rail services and at the Crown Post Office, among others, are we facing a Christmas of Discontent?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38327519</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38327519</guid>
+            <pubDate>Fri, 16 Dec 2016 17:59:39 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/B632/production/_93024664_mediaitem93024663.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drawing inspiration]]></title>
+            <description><![CDATA[Japanese anime film Your Name has become the country's most successful film at the Chinese box office - so what is its secret?]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38246184</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38246184</guid>
+            <pubDate>Mon, 19 Dec 2016 04:32:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0FA8/production/_91380040_56a26988-51b3-4d3d-9070-eb0024714a5c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Making a list]]></title>
+            <description><![CDATA[Despite modern gadgetry many of us still prefer pen and paper.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38288739</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38288739</guid>
+            <pubDate>Sun, 18 Dec 2016 00:39:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16E22/production/_93003739_thinkstockphotos-623909586.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Airbnb for storage?]]></title>
+            <description><![CDATA[A group of start-ups think the sharing economy model made popular by Airbnb can work for the storage industry.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38211628</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38211628</guid>
+            <pubDate>Fri, 16 Dec 2016 00:37:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10A49/production/_92996186_box3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prison to profit ]]></title>
+            <description><![CDATA[Reoffending rates for female prisoners are high, but a number of schemes are helping women turn their lives around by starting their own businesses.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38315132</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38315132</guid>
+            <pubDate>Fri, 16 Dec 2016 22:35:44 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6124/production/_92986842_janet1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bad money]]></title>
+            <description><![CDATA[Bad info about demonetisation is circulating online.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-trending-38318545</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-trending-38318545</guid>
+            <pubDate>Sat, 17 Dec 2016 00:34:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0EAF/production/_92995730_gettyimages-622117672.jpg"/>
+        </item>
+    </channel>
+</rss>

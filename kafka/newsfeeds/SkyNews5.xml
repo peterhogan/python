@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.skynews.com/feeds/rss/us.xml" rel="self" type="application/rss+xml"/>
+    <title>US News - The latest headlines from the US | Sky News</title>
+    <link>http://news.sky.com/us</link>
+    <image>
+      <title>US News - The latest headlines from the US | Sky News</title>
+      <url>http://feeds.skynews.com/images/web/logo/skynews_rss.png</url>
+      <link>http://news.sky.com/us</link>
+    </image>
+    <description>The latest news, video and expert analysis from around the United States of America.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2016, BSKYB. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 26 Aug 2016 04:00:00 +0100</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>Police Charge Lochte Over False Robbery Claim</title>
+      <link>http://news.sky.com/story/us-swimmer-ryan-lochte-charged-over-false-robbery-claim-10551937</link>
+      <description>US swimmer Ryan Lochte has been charged with making a false statement to police, after he claimed he had been robbed at gunpoint at the Rio Olympics.</description>
+      <pubDate>Thu, 25 Aug 2016 22:44:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/us-swimmer-ryan-lochte-charged-over-false-robbery-claim-10551937</guid>
+      <enclosure url="http://e3.365dm.com/16/08/70x70/lochte_getty_3768011.jpg?20160826065238" length="0" type="image/jpeg"/>
+      <media:description type="html">Ryan Lochte has been charged with filing a false robbery report</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/08/70x70/lochte_getty_3768011.jpg?20160826065238" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/08/70x70/lochte_getty_3768011.jpg?20160826065238"/>
+    </item>
+    <item>
+      <title>Clinton Attacks Trump Appearance With Farage</title>
+      <link>http://news.sky.com/story/hillary-clinton-links-donald-trump-with-alt-right-movement-10551709</link>
+      <description>Hillary Clinton has attacked Donald Trump for appearing with Nigel Farage, whom she described as &quot;one of Britain's most prominent right-wing leaders&quot;.</description>
+      <pubDate>Thu, 25 Aug 2016 20:11:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/hillary-clinton-links-donald-trump-with-alt-right-movement-10551709</guid>
+      <enclosure url="http://e3.365dm.com/16/08/70x70/aa3a4c032fa636b7ca2f9020cd8f7ff4fa2b0d32ddbb68c67ba2be8b5587253b_3772359.jpg?20160825213830" length="0" type="image/jpeg"/>
+      <media:description type="html">Democratic presidential nominee Hillary Clinton speaks during a campaign even in Reno, Nevada</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/08/70x70/aa3a4c032fa636b7ca2f9020cd8f7ff4fa2b0d32ddbb68c67ba2be8b5587253b_3772359.jpg?20160825213830" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/08/70x70/aa3a4c032fa636b7ca2f9020cd8f7ff4fa2b0d32ddbb68c67ba2be8b5587253b_3772359.jpg?20160825213830"/>
+    </item>
+    <item>
+      <title>Heard Calls On Depp To Double Charity Payout</title>
+      <link>http://news.sky.com/story/amber-heard-calls-on-johnny-depp-to-double-charity-payout-10552005</link>
+      <description>Amber Heard has urged Johnny Depp to double the $7m (&amp;#163;5.3m) he plans to donate to charity to avoid claims his lawyers&amp;#160;are seeking to reduce his divorce payment.</description>
+      <pubDate>Fri, 26 Aug 2016 04:00:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/amber-heard-calls-on-johnny-depp-to-double-charity-payout-10552005</guid>
+      <enclosure url="http://e3.365dm.com/16/07/70x70/gettyimages-488255662-1_3511469.jpg?20160704120429" length="0" type="image/jpeg"/>
+      <media:description type="html">Amber Heard and Johnny Depp</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/07/70x70/gettyimages-488255662-1_3511469.jpg?20160704120429" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/07/70x70/gettyimages-488255662-1_3511469.jpg?20160704120429"/>
+    </item>
+    <item>
+      <title>'The Rock' Tops Forbes List Of Best Paid Actors</title>
+      <link>http://news.sky.com/story/dwayne-johnson-tops-forbes-list-of-best-paid-actors-10551971</link>
+      <description>Dwayne &quot;The Rock&quot; Johnson has been named the world's highest paid actor by Forbes, raking in $64.5m (&amp;#163;49m).</description>
+      <pubDate>Fri, 26 Aug 2016 01:08:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/dwayne-johnson-tops-forbes-list-of-best-paid-actors-10551971</guid>
+      <enclosure url="http://e3.365dm.com/16/07/70x70/the-rock-dwayne-johnson-ballers_3743427.jpg?20160713161020" length="0" type="image/jpeg"/>
+      <media:description type="html">The Rock on Ballers</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/07/70x70/the-rock-dwayne-johnson-ballers_3743427.jpg?20160713161020" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/07/70x70/the-rock-dwayne-johnson-ballers_3743427.jpg?20160713161020"/>
+    </item>
+    <item>
+      <title>Reports Of Gunshots At JFK Airport Spark Panic</title>
+      <link>http://news.sky.com/story/reports-of-gunshots-at-jfk-airport-spark-panic-10537242</link>
+      <description>Reports of gunshots being fired at John F Kennedy Airport in New York triggered scenes of chaos before police confirmed there was no evidence of a shooting.</description>
+      <pubDate>Mon, 15 Aug 2016 03:04:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/reports-of-gunshots-at-jfk-airport-spark-panic-10537242</guid>
+      <enclosure url="http://e3.365dm.com/16/08/70x70/a8e586179145946aa5bcc3483fd2024e88cfe3ba69eddc0c9168761660dab96d_3765078.jpg?20160815063606" length="0" type="image/jpeg"/>
+      <media:description type="html">Police say they&amp;#39;ve found &amp;#39;no evidence&amp;#39; of a shooting </media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/08/70x70/a8e586179145946aa5bcc3483fd2024e88cfe3ba69eddc0c9168761660dab96d_3765078.jpg?20160815063606" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/08/70x70/a8e586179145946aa5bcc3483fd2024e88cfe3ba69eddc0c9168761660dab96d_3765078.jpg?20160815063606"/>
+    </item>
+    <item>
+      <title>Prince Death: Mislabelled Pills Found On Estate</title>
+      <link>http://news.sky.com/story/x-10547246</link>
+      <description>Pills recovered from Prince's Paisley Park estate were falsely labelled and actually contained a drug 50 times more potent than heroin, officials have revealed.</description>
+      <pubDate>Mon, 22 Aug 2016 02:24:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/x-10547246</guid>
+      <enclosure url="http://e3.365dm.com/16/04/70x70/prince-1-2048x1536_3449556.jpg?20160416010611" length="0" type="image/jpeg"/>
+      <media:description type="html">Singer Prince</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/04/70x70/prince-1-2048x1536_3449556.jpg?20160416010611" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/04/70x70/prince-1-2048x1536_3449556.jpg?20160416010611"/>
+    </item>
+    <item>
+      <title>'NSync And Backstreet Boys Creator Dies In Prison</title>
+      <link>http://news.sky.com/story/nsync-and-backstreet-boys-creator-lou-pearlman-dies-in-prison-10546214</link>
+      <description>Lou Pearlman, the former boy band mogul of 'NSync and the Backstreet Boys, has died in prison while serving a 25-year sentence for fraud.</description>
+      <pubDate>Sun, 21 Aug 2016 04:40:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/nsync-and-backstreet-boys-creator-lou-pearlman-dies-in-prison-10546214</guid>
+      <enclosure url="http://e3.365dm.com/16/08/70x70/92531c6e7b0a596bfe33d4c747545e4603c8ea931e1db4e34f3801c519edba80_3769239.jpg?20160821044626" length="0" type="image/jpeg"/>
+      <media:description type="html">Lou Pearlman</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/08/70x70/92531c6e7b0a596bfe33d4c747545e4603c8ea931e1db4e34f3801c519edba80_3769239.jpg?20160821044626" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/08/70x70/92531c6e7b0a596bfe33d4c747545e4603c8ea931e1db4e34f3801c519edba80_3769239.jpg?20160821044626"/>
+    </item>
+    <item>
+      <title>Deadly Flooding In Louisiana And Mississippi</title>
+      <link>http://news.sky.com/story/deadly-flooding-spreads-across-louisiana-and-mississippi-10534064</link>
+      <description>At least two people have died in flash floods caused by severe rain storms in&amp;#160;Louisiana and Mississippi.</description>
+      <pubDate>Sat, 13 Aug 2016 03:21:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/deadly-flooding-spreads-across-louisiana-and-mississippi-10534064</guid>
+      <enclosure url="http://e3.365dm.com/16/08/70x70/b44ed7fa400d50af8e3ff991128cd8329221775f81ca61e2f08f21c1b29775c2_3763455.jpg?20160813041556" length="0" type="image/jpeg"/>
+      <media:description type="html">Two boys in chest-deep water</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/08/70x70/b44ed7fa400d50af8e3ff991128cd8329221775f81ca61e2f08f21c1b29775c2_3763455.jpg?20160813041556" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/08/70x70/b44ed7fa400d50af8e3ff991128cd8329221775f81ca61e2f08f21c1b29775c2_3763455.jpg?20160813041556"/>
+    </item>
+    <item>
+      <title>Clinton Accuses Trump Of Inciting Violence</title>
+      <link>http://news.sky.com/story/clinton-accuses-trump-of-inciting-violence-10531174</link>
+      <description>White House candidate Hillary Clinton has accused Donald Trump of &quot;casual inciting of violence&quot; after his remark about gun rights.</description>
+      <pubDate>Wed, 10 Aug 2016 20:49:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/clinton-accuses-trump-of-inciting-violence-10531174</guid>
+      <enclosure url="http://e3.365dm.com/16/08/70x70/a770aec8167521cd35c6ee731bce3e48870966c3bd210d4f59698b4c38a659ad_3761871.jpg?20160810214304" length="0" type="image/jpeg"/>
+      <media:description type="html">Democratic presidential candidate Hillary Clinton campaigns in Iowa</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/08/70x70/a770aec8167521cd35c6ee731bce3e48870966c3bd210d4f59698b4c38a659ad_3761871.jpg?20160810214304" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/08/70x70/a770aec8167521cd35c6ee731bce3e48870966c3bd210d4f59698b4c38a659ad_3761871.jpg?20160810214304"/>
+    </item>
+    <item>
+      <title>'Grim Sleeper' Killer Faces Victims' Relatives</title>
+      <link>http://news.sky.com/story/grim-sleeper-killer-faces-victims-relatives-10531116</link>
+      <description>Relatives of women murdered by the &quot;Grim Sleeper&quot; serial killer have angrily challenged him in court as he was sentenced to death.</description>
+      <pubDate>Wed, 10 Aug 2016 19:28:00 +0100</pubDate>
+      <guid>http://news.sky.com/story/grim-sleeper-killer-faces-victims-relatives-10531116</guid>
+      <enclosure url="http://e3.365dm.com/16/02/70x70/rtr2g8kj-1-2048x1536_3416882.jpg?20160216135610" length="0" type="image/jpeg"/>
+      <media:description type="html">Lonnie David Franklin Jr. stands in court during his arraignment in Los Angeles</media:description>
+      <media:thumbnail url="http://e3.365dm.com/16/02/70x70/rtr2g8kj-1-2048x1536_3416882.jpg?20160216135610" width="70" height="70"/>
+      <media:content type="image/jpeg" url="http://e3.365dm.com/16/02/70x70/rtr2g8kj-1-2048x1536_3416882.jpg?20160216135610"/>
+    </item>
+  </channel>
+</rss>

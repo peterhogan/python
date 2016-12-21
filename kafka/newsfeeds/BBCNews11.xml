@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 21 Dec 2016 14:56:55 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Berlin truck attack: Manhunt across Europe for suspect]]></title>
+            <description><![CDATA[A manhunt is under way across Europe's Schengen area as police search for the Berlin lorry attacker.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38392128</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38392128</guid>
+            <pubDate>Wed, 21 Dec 2016 14:46:46 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/15CEE/production/_93062398_036976227.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Berlin attacks: Palace roads closed in security review]]></title>
+            <description><![CDATA[Roads around Buckingham Palace will close for changing the guard as security tightens.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38376534</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38376534</guid>
+            <pubDate>Wed, 21 Dec 2016 13:05:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14E0C/production/_93061558_mediaitem93061557.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millionaire gets life for escort Georgina Symonds' murder]]></title>
+            <description><![CDATA[A millionaire has been sentenced to life in prison for murdering his £10,000-a-month personal escort after hearing she planned to leave him.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38390909</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38390909</guid>
+            <pubDate>Wed, 21 Dec 2016 14:53:14 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/12206/production/_93064247_millionairemurdercomp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour MP Jamie Reed quitting Parliament]]></title>
+            <description><![CDATA[Labour MP Jamie Reed is quitting Parliament to take a job in the nuclear industry.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390152</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390152</guid>
+            <pubDate>Wed, 21 Dec 2016 14:27:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14FC4/production/_93065958_e90860a5-3207-41ea-bd00-2e9c78eade08.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU data retention ruling goes against UK government]]></title>
+            <description><![CDATA[The EU Court rules against the UK government over communications data retention.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390150</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390150</guid>
+            <pubDate>Wed, 21 Dec 2016 13:58:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4BF4/production/_90444491_mediaitem90444487.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen and Duke delay trip to Sandringham]]></title>
+            <description><![CDATA[The Queen and Prince Philip cancel plans to go to Sandringham in Norfolk on Wednesday due to colds.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38394780</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38394780</guid>
+            <pubDate>Wed, 21 Dec 2016 14:36:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/83E6/production/_93066733_royal_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HMP Birmingham riot repairs 'will cost £2m']]></title>
+            <description><![CDATA[The cost to repair damage caused by a riot at HMP Birmingham will be in the region of £2m, the BBC understands.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-birmingham-38391080</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-birmingham-38391080</guid>
+            <pubDate>Wed, 21 Dec 2016 13:23:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/135CF/production/_93011397_mediaitem93011396.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HMP Nottingham prison officer arrested after investigation]]></title>
+            <description><![CDATA[A prison officer is arrested and seven others suspended following a reported investigation into inmates being "goaded" in a game.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-nottinghamshire-38384928</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-nottinghamshire-38384928</guid>
+            <pubDate>Wed, 21 Dec 2016 10:38:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17269/production/_93052849_pa-12949405.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico fireworks blast kills dozens]]></title>
+            <description><![CDATA[An explosion at a fireworks market outside Mexico City has killed at least 29 people, officials say.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-38388218</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-38388218</guid>
+            <pubDate>Wed, 21 Dec 2016 04:45:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B6AD/production/_93056764_p04m2f2q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George North: Northampton Saints avoid sanction over head injury]]></title>
+            <description><![CDATA[Northampton Saints escape sanction following a review into their treatment of George North's latest head injury.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/38391557</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/38391557</guid>
+            <pubDate>Wed, 21 Dec 2016 14:55:24 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/14F38/production/_93061858_rexfeatures_6898161ag.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Graduates fast-tracked into prison service]]></title>
+            <description><![CDATA[Ministers back a new scheme to get graduates working in the prison service.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38392077</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38392077</guid>
+            <pubDate>Wed, 21 Dec 2016 13:21:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/66E0/production/_93063362_prisdoor.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Schoolgirl Kayleigh Rogers wows audience with her voice]]></title>
+            <description><![CDATA[Kayleigh Rogers' version of Leonard Cohen's Hallelujah was the highlight of her school's Christmas concert.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38389374</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38389374</guid>
+            <pubDate>Wed, 21 Dec 2016 07:37:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E975/production/_93056795_f007171e-c722-44c7-ae2b-8509e67984df.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lena Dunham didn't 'intentionally trivialise' abortion]]></title>
+            <description><![CDATA[In the latest episode of her podcast the Girls star said: "I still haven't had an abortion, but I wish I had."]]></description>
+            <link>http://www.bbc.co.uk/newsbeat/articles/38388742</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/articles/38388742</guid>
+            <pubDate>Wed, 21 Dec 2016 09:17:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1209D/production/_93058837_gettyimages-623251442.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diane James: Why 'awkward' Farage kiss didn’t go to plan]]></title>
+            <description><![CDATA[Former UKIP leader Diane James explains why her kiss with Nigel Farage didn't go to plan]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390280</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390280</guid>
+            <pubDate>Wed, 21 Dec 2016 13:09:24 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/10E24/production/_93065196_p04m3kvg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Giant panda in snowman challenge at Toronto Zoo]]></title>
+            <description><![CDATA[Keepers built a snowman for giant panda Da Mao to enjoy at Toronto Zoo.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38389380</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38389380</guid>
+            <pubDate>Wed, 21 Dec 2016 13:22:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B546/production/_93060464_p04m3sfv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Theresa May dodges parliament Brexit vote committee query]]></title>
+            <description><![CDATA[The Prime Minister Theresa May is questioned on whether parliament will vote on a final Brexit deal.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38386612</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38386612</guid>
+            <pubDate>Tue, 20 Dec 2016 18:48:35 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/145FF/production/_93055438_p04m1s7h.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Domestic abuse: 'I punched and kicked her - I blamed her for everything']]></title>
+            <description><![CDATA[Perpetrators of domestic abuse have been offered places on a course instead of a prison sentence, as part of a pilot scheme. One man tells his story.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38372375</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38372375</guid>
+            <pubDate>Tue, 20 Dec 2016 19:20:10 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A11C/production/_93044214_p04m0rrj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bristol zoo c-section gorilla Afia cuddles foster mum]]></title>
+            <description><![CDATA[Baby gorilla Afia born in a rare emergency caesarean section cuddles up to her surrogate mother.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38391527</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38391527</guid>
+            <pubDate>Wed, 21 Dec 2016 10:14:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1906/production/_93060460_p04m377g.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leaving Aleppo: 'They started firing']]></title>
+            <description><![CDATA[Activists who have fled eastern Aleppo tell the BBC about the mission to evacuate thousands.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-38385857</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-38385857</guid>
+            <pubDate>Wed, 21 Dec 2016 04:46:27 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/5A91/production/_93058132_mediaitem93053942.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Photographing an assassin: I saw the gunman with his hand in the air]]></title>
+            <description><![CDATA[Associated Press photographer Burhan Ozbilici captured the shocking moment that Russian ambassador to Turkey Andrei Karlov was killed]]></description>
+            <link>http://www.bbc.co.uk/news/world-38384463</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-38384463</guid>
+            <pubDate>Tue, 20 Dec 2016 21:53:37 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/377D/production/_93050241_p04m25dd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diane James: Why I quit as UKIP leader after 18 days]]></title>
+            <description><![CDATA[The woman who led UKIP for just 18 days, Diane James, has broken her silence to explain why she quit as leader.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38390277</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38390277</guid>
+            <pubDate>Wed, 21 Dec 2016 09:16:40 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/13C6E/production/_93060018_p04m3237.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[Britain's most-watched news channel, delivering breaking news and analysis all day, every day.]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 16 Mar 2016 12:34:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Helen Mirren: Going without make-up is 'wonderful']]></title>
+            <description><![CDATA[Dame Helen Mirren says it would be "wonderful" if it became more fashionable not to wear make-up.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-38327800</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-38327800</guid>
+            <pubDate>Wed, 21 Dec 2016 03:01:23 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/9B5E/production/_93047793_mirrengetty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ikea says illegal teenage sleepovers must end]]></title>
+            <description><![CDATA[Ikea urges teenagers to stop having sleepovers in its stores, after a YouTube video went viral.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38390497</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38390497</guid>
+            <pubDate>Wed, 21 Dec 2016 11:26:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17F3A/production/_93060189_9afbed98-077d-4093-b916-a7fff73ed840.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anne Curry: This year in history]]></title>
+            <description><![CDATA[Historian Anne Curry compares the changes and challenges of 2016 to the events of 1420.]]></description>
+            <link>http://www.bbc.co.uk/news/world-38326618</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-38326618</guid>
+            <pubDate>Wed, 21 Dec 2016 01:24:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/531F/production/_92997212_henryvwooinguse.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality Check: Do men earn less for part-time work?]]></title>
+            <description><![CDATA[MP Philip Davies said men were suffering from a part-time pay gap. But male workers earned 18% more overall this year.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38385259</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38385259</guid>
+            <pubDate>Wed, 21 Dec 2016 10:46:19 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/083A/production/_93060120_deli_thinkstock.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How many minimally conscious patients are there?]]></title>
+            <description><![CDATA[Advances in medicine have meant that many more people survive traumatic incidents than in the past.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38383338</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38383338</guid>
+            <pubDate>Wed, 21 Dec 2016 07:46:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/93FC/production/_93048873_thinkstockphotos-200470373-001.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What is Cash for Ash scandal?]]></title>
+            <description><![CDATA[BBC News NI answers commonly asked questions about the scandal surrounding the Renewable Heat Incentive scheme.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38307628</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38307628</guid>
+            <pubDate>Tue, 13 Dec 2016 16:31:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10675/production/_90798176_conor3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who was Rabbi Lionel Blue?]]></title>
+            <description><![CDATA[Rabbi Lionel Blue's jocular pronouncements on the BBC's Thought For the Day were a feature for more than 25 years.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-12128766</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-12128766</guid>
+            <pubDate>Mon, 19 Dec 2016 10:49:30 GMT</pubDate>
+            <media:thumbnail width="511" height="287" url="http://c.files.bbci.co.uk/07F4/production/_87263020_87263019.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yemen's displaced]]></title>
+            <description><![CDATA[Stories of displaced women and girls in the Dharwan settlement, outside the Yemeni capital, Sanaa.]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-38305875</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-38305875</guid>
+            <pubDate>Mon, 19 Dec 2016 01:12:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DA2F/production/_92955855_unhcryemen_10.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Portraits of welcome]]></title>
+            <description><![CDATA[Members of the British public offer messages for arriving refugees.]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-38327867</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-38327867</guid>
+            <pubDate>Sun, 18 Dec 2016 00:26:28 GMT</pubDate>
+            <media:thumbnail width="1771" height="996" url="http://c.files.bbci.co.uk/7B09/production/_92979413_zeynep.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Week in pictures: 10-16 December 2016]]></title>
+            <description><![CDATA[A selection of the best news photographs from around the world, taken over the past week.]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-38331111</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-38331111</guid>
+            <pubDate>Sat, 17 Dec 2016 02:25:32 GMT</pubDate>
+            <media:thumbnail width="888" height="500" url="http://c.files.bbci.co.uk/101BA/production/_92987956_d719adb0-ac8c-470a-aec9-4a9715ca9636.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raw nature]]></title>
+            <description><![CDATA[Extraordinary photographs by National Geographic photographers]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-38288359</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-38288359</guid>
+            <pubDate>Fri, 16 Dec 2016 01:23:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1821D/production/_92954889_greg-lecoeur-ngnp-grand-prize-action1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Africa's top shots: 9 December-15 December 2016]]></title>
+            <description><![CDATA[A selection of the best photos from across Africa this week.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38331974</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38331974</guid>
+            <pubDate>Fri, 16 Dec 2016 10:54:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C7D7/production/_92995115_abidjan.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dylan Hartley: Red card let England down - Eddie Jones]]></title>
+            <description><![CDATA[England head coach says captain Dylan Hartley "can't behave in the way he did" after the third red card of the hooker's career.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/38389126</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/38389126</guid>
+            <pubDate>Wed, 21 Dec 2016 08:42:15 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1BB7/production/_93059070_dylan_hartley_eddie_jones_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Bash: Andre Russell's black and pink bat banned by Cricket Australia]]></title>
+            <description><![CDATA[Cricket Australia withdraws its approval for the black and pink bat used by Sydney Thunder's Andre Russell in the Big Bash.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/38388937</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/38388937</guid>
+            <pubDate>Wed, 21 Dec 2016 09:07:39 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/10EAF/production/_93059296_andre_russell_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cardiff Blues lock George Earle banned for eight weeks]]></title>
+            <description><![CDATA[Cardiff Blues lock George Earle is banned for eight weeks after making contact with the eye area of Bath's Tom Ellis in the European Challenge Cup.]]></description>
+            <link>http://www.bbc.co.uk/sport/rugby-union/38384228</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/38384228</guid>
+            <pubDate>Wed, 21 Dec 2016 14:02:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/3741/production/_93054141_rexfeatures_7567133aq.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Millionaire and the escort]]></title>
+            <description><![CDATA[As a millionaire is found guilty of murdering his escort, how did he claim Asperger syndrome made him do it in what is believed to be the first case of its kind?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-38314421</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-38314421</guid>
+            <pubDate>Wed, 21 Dec 2016 12:14:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DC07/production/_92972365_wns_140116_georgina_symonds_murder_05x.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fishermen's friend]]></title>
+            <description><![CDATA[Capturing the Scottish men who spend time at sea]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-38249308</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-38249308</guid>
+            <pubDate>Wed, 21 Dec 2016 02:30:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10DFF/production/_92891196_coatesjoanne_14.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strictly business]]></title>
+            <description><![CDATA[How do you relate to your colleagues? Do you socialise or do you keep your work and personal lives separate?]]></description>
+            <link>http://www.bbc.co.uk/news/business-38224684</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38224684</guid>
+            <pubDate>Wed, 21 Dec 2016 00:30:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E609/production/_92998885_ps-phil-and-caroline-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures]]></title>
+            <description><![CDATA[Hundreds of people have been gathering at Stonehenge to mark the winter solstice.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-wiltshire-38388991</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-wiltshire-38388991</guid>
+            <pubDate>Wed, 21 Dec 2016 08:51:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/897B/production/_93059153_mediaitem93059152.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cyber Christmas]]></title>
+            <description><![CDATA[Some of the smart home gifts wrapped up under Christmas trees could become a major headache in 2017 and beyond.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-38364077</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-38364077</guid>
+            <pubDate>Wed, 21 Dec 2016 03:05:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CDC0/production/_93027625_76188e14-bd19-40a4-b868-29e7b07b4c22.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Santa's jewels]]></title>
+            <description><![CDATA[We visit the online diamond store that does a roaring trade in the run-up to Christmas.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38380345</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38380345</guid>
+            <pubDate>Wed, 21 Dec 2016 00:32:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6940/production/_93044962_diamond1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Good morning Syria! ]]></title>
+            <description><![CDATA[A radio station staffed by Syrian exiles in Istanbul broadcasts news, dramas and comedy shows back to Syria. But they say the most important thing they provide is hope.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38378108</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38378108</guid>
+            <pubDate>Wed, 21 Dec 2016 00:44:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CBCE/production/_93047125_presenter_promo.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I just did my job']]></title>
+            <description><![CDATA[The photographer who captured a Russian ambassador's assassination in Turkey speaks about the event.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38377164</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38377164</guid>
+            <pubDate>Tue, 20 Dec 2016 12:17:48 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1667E/production/_93047719_7e7c1135-2e8c-4540-8472-a4e09cf1bfc6.jpg"/>
+        </item>
+    </channel>
+</rss>

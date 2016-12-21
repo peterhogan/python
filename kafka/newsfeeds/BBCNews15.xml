@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Northern Ireland]]></title>
+        <description><![CDATA[BBC News - Northern Ireland]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Northern Ireland</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 21 Dec 2016 15:03:12 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Pauline Carmichael murder: Former soldier jailed for nine years]]></title>
+            <description><![CDATA[A 38-year-old former soldier from Antrim who threw his father's partner off a bridge with a 40ft drop is jailed for nine years for her murder.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38394274</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38394274</guid>
+            <pubDate>Wed, 21 Dec 2016 14:59:44 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/62B2/production/_93066252_paulinecarmichael.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Christmas storms: Yellow warning indicates disruption]]></title>
+            <description><![CDATA[A relatively quiet spell of weather in December will end on Friday as the second storm of the winter season moves in from the Atlantic.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38394271</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38394271</guid>
+            <pubDate>Wed, 21 Dec 2016 13:56:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8422/production/_93062833_winds2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RHI scandal: Renewable Heating Incentive 'could close']]></title>
+            <description><![CDATA[The Executive considers the closure of a controversial heating scheme that could cost taxpayers £400m.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38386564</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38386564</guid>
+            <pubDate>Wed, 21 Dec 2016 12:07:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2B9D/production/_93056111_rhi.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norovirus hits Slieve Russell hotel and hospital wards]]></title>
+            <description><![CDATA[A norovirus outbreak closes six hospital wards in Londonderry and the Slieve Russell hotel in County Cavan.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38378420</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38378420</guid>
+            <pubDate>Wed, 21 Dec 2016 13:29:11 GMT</pubDate>
+            <media:thumbnail width="464" height="261" url="http://c.files.bbci.co.uk/135C9/production/_93050397_mediaitem93047065.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSNI random checkpoint breath tests catch 241 drivers]]></title>
+            <description><![CDATA[More than 200 motorists are caught drink-driving in Northern Ireland since the PSNI introduced random breath tests at vehicle checkpoints, say police.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38393560</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38393560</guid>
+            <pubDate>Wed, 21 Dec 2016 13:23:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E09F/production/_87730575_drinkdriving.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IFA pays out £28k to unfairly dismissed manager]]></title>
+            <description><![CDATA[A former commercial manager at the Irish Football Association (IFA) wins £27,000 in compensation at an employment tribunal.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38394272</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38394272</guid>
+            <pubDate>Wed, 21 Dec 2016 13:49:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/136C4/production/_93065597_ifabetter.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shots fired at house in Londonderry]]></title>
+            <description><![CDATA[Police are investigating after shots were fired at a home in the Waterside area of Londonderry.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38389053</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38389053</guid>
+            <pubDate>Wed, 21 Dec 2016 11:25:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5F4B/production/_93059342__83064398_psnicrestbbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North-South electricity interconnector: Southern section given approval]]></title>
+            <description><![CDATA[The Republic of Ireland's planning body gives approval for the southern section of the £200m cross-border electricity inter-connector project.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38391546</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38391546</guid>
+            <pubDate>Wed, 21 Dec 2016 12:06:12 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/15078/production/_93063168_electricitypowerlines.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Loyalist flags protester wins £3,000 Facebook damages]]></title>
+            <description><![CDATA[Facebook is ordered to pay £3,000 damages to a loyalist flags protester for publishing comments about his children's religion.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38386228</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38386228</guid>
+            <pubDate>Tue, 20 Dec 2016 18:49:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FEDD/production/_93054256_facebook2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man injured in underground fire shock]]></title>
+            <description><![CDATA[A 41-year-old man is taken to hospital after sustaining an electric shock in East Belfast.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38387458</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38387458</guid>
+            <pubDate>Wed, 21 Dec 2016 00:20:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8C7D/production/_93056953_fire.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen's University given £250,000 for children's PTSD project]]></title>
+            <description><![CDATA[More than £250,000 has been given to Queen's University for a project aimed at helping children suffering from post-traumatic stress disorder.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38386414</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38386414</guid>
+            <pubDate>Wed, 21 Dec 2016 06:36:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15261/production/_93052668_queensuniversity2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Civil service agency workers cost £10m]]></title>
+            <description><![CDATA[Stormont spends more than £10m on agency workers in the Northern Ireland Civil Service at a time when it was making redundancies, it has been revealed.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38387199</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38387199</guid>
+            <pubDate>Tue, 20 Dec 2016 22:02:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5F2D/production/_93056342_bbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NI girl wows with Hallelujah]]></title>
+            <description><![CDATA[Kayleigh Rogers' version of Leonard Cohen's Hallelujah is shared all over the world.]]></description>
+            <link>http://www.bbc.co.uk/newsbeat/articles/38382077</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/articles/38382077</guid>
+            <pubDate>Wed, 21 Dec 2016 11:12:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/35C4/production/_93046731_still-kaylee2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Craigavad: Man taken to hospital after serious crash]]></title>
+            <description><![CDATA[A man is taken to hospital with head and chest injuries following a serious crash on the A2 Belfast to Bangor road, near at what is known as the Devil's Elbow.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38387456</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38387456</guid>
+            <pubDate>Tue, 20 Dec 2016 23:01:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A5E1/production/_93056424_psni2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clinton and Armstrong win 30-year battle to clear names]]></title>
+            <description><![CDATA[Two women convicted of falsely imprisoning a man in a case involving a suspected British agent win a 30-year battle to clear their names.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38382183</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38382183</guid>
+            <pubDate>Tue, 20 Dec 2016 16:38:57 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/9A3C/production/_93048493_laganside.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apollo House: Irish stars join homeless shelter protest]]></title>
+            <description><![CDATA[Irish celebrities back a campaign against homelessness after activists turn an ex-government building into a shelter.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38378193</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38378193</guid>
+            <pubDate>Tue, 20 Dec 2016 15:26:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C926/production/_93049415__87150334_hozier1_976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barry Petticrew jailed over bomb-making factory find]]></title>
+            <description><![CDATA[A mechanic caught at a bomb-making factory on a Fermanagh farm will spend 11 years behind bars.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-politics-38380695</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-politics-38380695</guid>
+            <pubDate>Tue, 20 Dec 2016 16:43:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1414E/production/_93045228_kinawleytimerpowerunit1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Schoolgirl wows audience with her voice]]></title>
+            <description><![CDATA[Kayleigh Rogers' version of Leonard Cohen's Hallelujah was the highlight of her local Christmas concert and has been shared thousands of times on Facebook.]]></description>
+            <link>http://www.bbc.co.uk/newsbeat/38382438</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/38382438</guid>
+            <pubDate>Tue, 20 Dec 2016 14:25:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E975/production/_93056795_f007171e-c722-44c7-ae2b-8509e67984df.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tourist winched to safety in cliff rescue]]></title>
+            <description><![CDATA[The Coastguard Helicopter in the latter stages of a rescue at the Giant's Causeway on Monday]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-politics-38378059</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-politics-38378059</guid>
+            <pubDate>Tue, 20 Dec 2016 09:50:17 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B490/production/_93042264_p04lzv71.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norovirus: Western Trust boss says outbreak 'worst in 30 years']]></title>
+            <description><![CDATA[The Western Health Trust's medical director says a norovirus outbreak at Altnagelvin Hospital in Londonderry is the worst he has experienced in his career of almost 30 years.]]></description>
+            <link>http://www.bbc.co.uk/news/38376811</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/38376811</guid>
+            <pubDate>Tue, 20 Dec 2016 14:03:27 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/29BC/production/_93048601_p04m0qks.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Martin McGuinness says 'no action has been agreed on RHI']]></title>
+            <description><![CDATA[Deputy First Minister Martin McGuinness says no action has been agreed on a way forward on the Renewable Heating Incentive scandal.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38373430</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38373430</guid>
+            <pubDate>Mon, 19 Dec 2016 18:25:24 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1586D/production/_93037188_p04lybmf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RHI at Stormont - in 60 seconds]]></title>
+            <description><![CDATA[RHI at Stormont - Watch the key moments in 60 seconds]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38372453</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38372453</guid>
+            <pubDate>Mon, 19 Dec 2016 16:54:27 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C961/production/_93035515_p04lxylz.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[Britain's most-watched news channel, delivering breaking news and analysis all day, every day.]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 16 Mar 2016 12:34:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mick Wallace TD declared bankrupt in High Court]]></title>
+            <description><![CDATA[The independent Irish TD (MP) Mick Wallace is declared bankrupt at the High Court in Dublin.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38376852</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38376852</guid>
+            <pubDate>Tue, 20 Dec 2016 10:19:23 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/ED66/production/_84247706_mickwallace.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three Cork men charged with IRA membership]]></title>
+            <description><![CDATA[Three men arrested in Cork are charged with membership of an unlawful organisation, the Irish Republican Army.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38353322</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38353322</guid>
+            <pubDate>Sat, 17 Dec 2016 16:04:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/107C1/production/_93012576_specialcrimcourt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gardaí: Cannabis worth €2.8 found in County Cavan]]></title>
+            <description><![CDATA[Herbal Cannabis with an estimated value of €2.8 million has been seized in County Cavan in a joint operation by Gardaí and the Irish Revenue's Customs Service.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38349129</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38349129</guid>
+            <pubDate>Fri, 16 Dec 2016 22:56:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1F18/production/_93006970__92250117_garda.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electricity supplier Open Electric goes into administration]]></title>
+            <description><![CDATA[The Northern Ireland electricity supplier Open Electric has gone into administration and its 1,100 customers are switched to Power NI.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38356896</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38356896</guid>
+            <pubDate>Sun, 18 Dec 2016 13:52:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1052D/production/_93016866_electricity.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Belfast strongest UK city for economic growth in 2015]]></title>
+            <description><![CDATA[Belfast saw the strongest economic growth of any UK city in 2015, official figures suggest.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38329159</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38329159</guid>
+            <pubDate>Thu, 15 Dec 2016 11:05:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/122B2/production/_92981447_belfast3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trade body in 'scrap bus lanes' call]]></title>
+            <description><![CDATA[Belfast Chamber of Trade and Commerce calls for bus lanes to be scrapped in parts of Belfast 'as an experiment'.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38316153</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38316153</guid>
+            <pubDate>Wed, 14 Dec 2016 12:39:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F470/production/_92967526_buslanee1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[November saw further fall in Northern Ireland unemployment claimants]]></title>
+            <description><![CDATA[The number of people claiming unemployment benefits in Northern Ireland continued to fall in November.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38314972</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38314972</guid>
+            <pubDate>Wed, 14 Dec 2016 10:24:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6A6E/production/_92964272_jobsandbenefitsofficesign.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ireland boosted by return of Ed Joyce on full-time basis]]></title>
+            <description><![CDATA[Veteran batsman Ed Joyce commits to playing full-time for Ireland and in the Inter-Provincial Series.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/38391867</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/38391867</guid>
+            <pubDate>Wed, 21 Dec 2016 11:10:44 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/61C2/production/_93062052_joyceindex.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Northern Ireland Football governing body to discuss Fifa poppy penalty]]></title>
+            <description><![CDATA[The Irish FA meets on Wednesday to discuss its response to the fine imposed by Fifa for a poppy display in the game against Azerbaijan.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/38385543</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/38385543</guid>
+            <pubDate>Tue, 20 Dec 2016 17:16:22 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/18263/production/_93051989_poppyplayers.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Challenge Cup quarter-final: Belfast snatch overtime win over Manchester]]></title>
+            <description><![CDATA[Belfast twice come from two goals down to force an overtime victory against Manchester in the Challenge Cup quarter-final second leg.]]></description>
+            <link>http://www.bbc.co.uk/sport/ice-hockey/38387232</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/ice-hockey/38387232</guid>
+            <pubDate>Tue, 20 Dec 2016 22:10:41 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/69B6/production/_92926072_higgy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PDC World Darts: Fermanagh's Brendan Dolan books second-round spot]]></title>
+            <description><![CDATA[Brendan Dolan produces a fine performance to beat Dutchman Christian Kist 3-1 in the first round at the PDC World Championship.]]></description>
+            <link>http://www.bbc.co.uk/sport/darts/38387225</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/darts/38387225</guid>
+            <pubDate>Tue, 20 Dec 2016 21:21:14 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/912D/production/_93056173_dolanbrendan.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Northern Ireland weather]]></title>
+            <description><![CDATA[Northern Ireland weather forecast]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
+            <pubDate>Wed, 21 Dec 2016 07:47:42 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://news.bbcimg.co.uk/media/images/73379000/jpg/_73379390_cloudyglobe.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What do yew think makes a winning tree?]]></title>
+            <description><![CDATA[What makes a winning tree - trunk size, age, ease of climbing, or number of nobbles?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38378064</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38378064</guid>
+            <pubDate>Tue, 20 Dec 2016 14:21:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18280/production/_93044989_the-holm-oak-m-cooper.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jumping for joy?]]></title>
+            <description><![CDATA[Thousands turn out in Londonderry to try and break the world record for the most Christmas jumpers in one place.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38363797</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38363797</guid>
+            <pubDate>Mon, 19 Dec 2016 09:08:51 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/BCE0/production/_93025384_15493666_1826349000940441_7533380667098955347_o.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[You're Fired! ]]></title>
+            <description><![CDATA[BBC News NI talks Lord Sugar and gin with The Apprentice semi-finalist Grainne McCoy from Newry.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38331113</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38331113</guid>
+            <pubDate>Fri, 16 Dec 2016 13:50:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4B30/production/_92984291_grainne1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Precious portfolio]]></title>
+            <description><![CDATA[An expert panel recommends that more paintings from Stormont's art collection, which is worth over £2m, should go on public display across Northern Ireland]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38306417</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38306417</guid>
+            <pubDate>Wed, 14 Dec 2016 06:29:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BFC7/production/_92959094_marketpainting.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scammers conned woman]]></title>
+            <description><![CDATA[A BBC Spotlight film has triggered an international criminal investigation that has broken up the infrastructure used by scam mail fraudsters.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38303845</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38303845</guid>
+            <pubDate>Tue, 13 Dec 2016 14:54:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/127CD/production/_92952757_beltelstill1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norovirus closes Brooklands Londonderry care home]]></title>
+            <description><![CDATA[A Londonderry care home is closed to the public after its elderly residents were diagnosed with norovirus.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38389054</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38389054</guid>
+            <pubDate>Wed, 21 Dec 2016 13:30:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/6352/production/_93062452_brooklands.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ulster University applies to train doctors at Magee]]></title>
+            <description><![CDATA[Ulster University applies to the General Medical Council (GMC) to train doctors at the Magee Campus.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38389052</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38389052</guid>
+            <pubDate>Wed, 21 Dec 2016 09:32:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/88A7/production/_85338943_20150903_094757.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police in tourist appeal over missing Belfast woman]]></title>
+            <description><![CDATA[Police appeal for tourists' photographs in a bid to trace an east Belfast woman missing in County Antrim.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-38327033</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-38327033</guid>
+            <pubDate>Thu, 15 Dec 2016 08:43:26 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/0061/production/_92979000_catherinejohnston.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Funeral for second Tyrone crash victim Killian Doherty]]></title>
+            <description><![CDATA[The funeral has taken place of a second County Tyrone man who died in a road crash in Omagh.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38312554</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38312554</guid>
+            <pubDate>Wed, 14 Dec 2016 13:33:14 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10096/production/_92968656_funeral2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Physically handicapped' toilet sign replaced after criticism]]></title>
+            <description><![CDATA[A health trust has replaced a sign criticised for referring to disabled people as "physically handicapped".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38303351</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38303351</guid>
+            <pubDate>Tue, 13 Dec 2016 13:27:13 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/3B65/production/_92950251_disabled.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PSNI to review Derry bomb victim David Caldwell's death]]></title>
+            <description><![CDATA[The PSNI are to investigate claims made in a book about the murder of a former UDR soldier in 2002.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38286775</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-38286775</guid>
+            <pubDate>Mon, 12 Dec 2016 11:31:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1335D/production/_91758687__61955458_david_caldwell_ulster_murder_.jpg"/>
+        </item>
+    </channel>
+</rss>

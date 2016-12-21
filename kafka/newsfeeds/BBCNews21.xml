@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Education & Family]]></title>
+        <description><![CDATA[BBC News - Education & Family]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Education &amp; Family</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 21 Dec 2016 13:22:51 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Graduates fast-tracked into prison service]]></title>
+            <description><![CDATA[Ministers back a new scheme to get graduates working in the prison service.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38392077</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38392077</guid>
+            <pubDate>Wed, 21 Dec 2016 13:21:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/66E0/production/_93063362_prisdoor.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Troubled families turnaround claim misleading, say MPs]]></title>
+            <description><![CDATA[A government claim that it had improved the lives of 99% of England's most troubled families was misleading, MPs say.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38369557</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38369557</guid>
+            <pubDate>Tue, 20 Dec 2016 02:16:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/182D2/production/_91962099_004406398-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Child abuse 'affects health decades later']]></title>
+            <description><![CDATA[Children who were abused are more likely to have poor health and living standards decades later, a study suggests.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38345887</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38345887</guid>
+            <pubDate>Mon, 19 Dec 2016 00:45:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2E36/production/_93003811_shoulders.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Premature quadruplets home for Christmas in Birmingham]]></title>
+            <description><![CDATA[A set of quadruplets born 10 weeks premature are reunited at home in time for Christmas.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-birmingham-38372810</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-birmingham-38372810</guid>
+            <pubDate>Tue, 20 Dec 2016 08:21:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17B9F/production/_93038179_pic19121.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Redacted Bailey Gwynne school death report published]]></title>
+            <description><![CDATA[A heavily-redacted report into the killing of Aberdeen schoolboy Bailey Gwynne is published.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-38365165</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-38365165</guid>
+            <pubDate>Mon, 19 Dec 2016 16:56:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9E62/production/_88664504_baileygwynne1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Private college pays student for slow marking]]></title>
+            <description><![CDATA[A college has paid £1,377 to a former student who claimed that slow feedback meant she "lost a year".]]></description>
+            <link>http://www.bbc.co.uk/news/education-38367214</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38367214</guid>
+            <pubDate>Mon, 19 Dec 2016 15:07:10 GMT</pubDate>
+            <media:thumbnail width="549" height="309" url="http://c.files.bbci.co.uk/09DB/production/_93032520_abistudentsmonikaandpapers.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pembrokeshire 'misconduct' head Irwyn Wilcox sacked]]></title>
+            <description><![CDATA[A suspended head teacher is dismissed from his post at a Fishguard school for "gross misconduct".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-south-west-wales-38365373</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-south-west-wales-38365373</guid>
+            <pubDate>Mon, 19 Dec 2016 16:37:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/139E1/production/_93035308_irwynwilcox1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grammars 'will not boost poorest pupils' science grades']]></title>
+            <description><![CDATA[Top scientists fear plans for more grammar schools in England will not help disadvantaged pupils.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38343307</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38343307</guid>
+            <pubDate>Sat, 17 Dec 2016 08:51:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BC7A/production/_93005284_scienceexperientthinkstock.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Children 'left at risk by government reform delay']]></title>
+            <description><![CDATA[MPs warn that children are being left at risk of harm by the government's failure to reform child protection.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38332240</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38332240</guid>
+            <pubDate>Fri, 16 Dec 2016 09:52:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15E9E/production/_92985798_girlsabovethinkst.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Homeless Christmas faced by 117,000 children]]></title>
+            <description><![CDATA[Figures show at least 117,000 children are set to face Christmas in temporary accommodation in England.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38329392</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38329392</guid>
+            <pubDate>Fri, 16 Dec 2016 10:59:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E0B9/production/_92992575_sadkidthinkst.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[London school's towering performance in Pisa tests]]></title>
+            <description><![CDATA[The London school that took on the world in global tests for pupils.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38262047</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38262047</guid>
+            <pubDate>Fri, 16 Dec 2016 12:22:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6085/production/_92990742_alexandra-park.njpg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trinity College Cambridge given 'extraordinary' book collection]]></title>
+            <description><![CDATA[An "extraordinary" collection of books has been bequeathed to a Cambridge college by the aunt of the former University Challenge presenter Bamber Gascoigne.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-cambridgeshire-38341609</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-cambridgeshire-38341609</guid>
+            <pubDate>Fri, 16 Dec 2016 15:42:36 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5185/production/_92996802_p04lmpnm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[School league tables out after test 'chaos']]></title>
+            <description><![CDATA[Parents are urged to ignore newly published school league tables, after "chaotic" changes to testing in England.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38315195</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38315195</guid>
+            <pubDate>Thu, 15 Dec 2016 12:57:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0754/production/_92967810_thinkstockphotos-613759072.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tom Harwood elected as National Union of Students delegate]]></title>
+            <description><![CDATA[A National Union of Students delegate candidate is elected with an unusual video pitch]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38370145</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38370145</guid>
+            <pubDate>Mon, 19 Dec 2016 14:48:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CBA5/production/_93033125_p04lxg8k.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is this school the best in the world?]]></title>
+            <description><![CDATA[A school in north London could be among the best in the world after scoring better in international rankings than top performers like Singapore.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38376959</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38376959</guid>
+            <pubDate>Tue, 20 Dec 2016 10:16:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C426/production/_93041205_p04lzxf0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dad of groomed boy: Parents need to accept it can happen]]></title>
+            <description><![CDATA[A father whose 13-year-old son was sexually abused by a number of men he met online says parents need to “accept [grooming] can happen”]]></description>
+            <link>http://www.bbc.co.uk/news/education-38320427</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38320427</guid>
+            <pubDate>Thu, 15 Dec 2016 07:47:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/77F3/production/_92970703_p04lf0y3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duchess donates 'extraordinary' book trove to college]]></title>
+            <description><![CDATA[The aunt of TV quizmaster Bamber Gascoigne leaves an "extraordinary" collection of books to a Cambridge University college in her will.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-cambridgeshire-38327757</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-cambridgeshire-38327757</guid>
+            <pubDate>Thu, 15 Dec 2016 13:05:06 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/14076/production/_92983028_drbellwithbluesuitcase3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Women's concentration 'less disrupted by music']]></title>
+            <description><![CDATA[Women are better than men at concentrating when music is playing, says research, with rock music particularly distracting for men.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38289080</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38289080</guid>
+            <pubDate>Mon, 12 Dec 2016 14:11:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/143AF/production/_92936828_music3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Argentina's tough truths for improving schools]]></title>
+            <description><![CDATA["We don't want to accept that we're doing badly at anything," says Argentina's education minister.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38367033</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38367033</guid>
+            <pubDate>Wed, 21 Dec 2016 00:42:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9396/production/_93028773_bullrich1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could robots mark your homework?]]></title>
+            <description><![CDATA[Artificial intelligence is threatening to replace many jobs. There are experiments to see whether robots could become teachers.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38289079</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38289079</guid>
+            <pubDate>Wed, 14 Dec 2016 00:11:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/40A9/production/_92935561_robot976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[From American Dream to Asian ambition?]]></title>
+            <description><![CDATA[Why do Asian countries do so well in global education rankings? The OECD's education director says it reflects a belief that all pupils can succeed.]]></description>
+            <link>http://www.bbc.co.uk/news/business-38212075</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-38212075</guid>
+            <pubDate>Wed, 07 Dec 2016 00:02:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1432F/production/_92853728_pisastuden976t.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Student politics]]></title>
+            <description><![CDATA[The National Union of Students is being accused of being "out of touch" after a delegate mocked it during his campaign.]]></description>
+            <link>http://www.bbc.co.uk/newsbeat/articles/38378792</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/newsbeat/articles/38378792</guid>
+            <pubDate>Tue, 20 Dec 2016 17:04:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16F53/production/_93053049_alamy_student976.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Have uniform, will travel]]></title>
+            <description><![CDATA[How a meeting between two of the BBC's 100 Women of 2013 led to an English girl's school reopening in a Kenyan slum]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-38335861</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-38335861</guid>
+            <pubDate>Tue, 20 Dec 2016 01:17:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B521/production/_92996364_joyceuniform.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Family Matters]]></title>
+            <description><![CDATA[Another chance to see some of the best family and parenting stories from the BBC this week.]]></description>
+            <link>http://www.bbc.co.uk/news/education-38341832</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38341832</guid>
+            <pubDate>Fri, 16 Dec 2016 17:38:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14F81/production/_92998858_2573cc1f-f013-4bf8-bfff-bb010ba6a1a0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dire or delightful?]]></title>
+            <description><![CDATA[Traditional pre-Christmas school productions can be "stressful to create but a pleasure to watch".]]></description>
+            <link>http://www.bbc.co.uk/news/education-38210735</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-38210735</guid>
+            <pubDate>Mon, 12 Dec 2016 03:30:44 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/0B0E/production/_92903820_nativity3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sex worker mums]]></title>
+            <description><![CDATA[A significant number of sex workers in the UK are also mothers, research suggests. So what is it like to sell sex while bringing up a child?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38128523</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38128523</guid>
+            <pubDate>Sun, 11 Dec 2016 16:13:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11077/production/_92615796_motherchild.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pleasure or pressure?]]></title>
+            <description><![CDATA[A new gift-giving tradition has crept into UK homes, but what do you put in a Christmas Eve box?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38220870</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38220870</guid>
+            <pubDate>Wed, 07 Dec 2016 14:03:22 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/16F73/production/_92876049_christmaspresents.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Child regret ]]></title>
+            <description><![CDATA[When Corinne Maier spoke to the BBC attacking baby mania, her honest account of parenting struck a chord around the world.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38145118</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38145118</guid>
+            <pubDate>Tue, 06 Dec 2016 03:04:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2F52/production/_92841121_istock-477668955.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lean times]]></title>
+            <description><![CDATA[Is university funding in crisis? BBC Scotland education correspondent Jamie McIvor investigates.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38187506</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38187506</guid>
+            <pubDate>Sat, 03 Dec 2016 00:33:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10E46/production/_92809196_ce9e4874-eb2c-4016-b8a7-6bace598d7e0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Booster bother]]></title>
+            <description><![CDATA[New rules on car seats are being brought in but what are they and will parents need to buy replacements?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38182298</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38182298</guid>
+            <pubDate>Fri, 02 Dec 2016 14:52:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11806/production/_89468617_childseatthinkstock.jpg"/>
+        </item>
+    </channel>
+</rss>

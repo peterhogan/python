@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Science & Environment]]></title>
+        <description><![CDATA[BBC News - Science & Environment]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Science &amp; Environment</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 21 Dec 2016 12:27:08 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Brain's party noise filter revealed by recordings]]></title>
+            <description><![CDATA[Direct recordings have revealed what happens in our brains as we make sense of speech in a noisy environment, scientists say.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38381915</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38381915</guid>
+            <pubDate>Tue, 20 Dec 2016 16:40:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A662/production/_93049524_mediaitem93049522.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Obama bans oil drilling 'permanently' in millions of acres of ocean]]></title>
+            <description><![CDATA[Barack Obama has permanently banned offshore drilling in the "vast majority" of northern US waters.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38387525</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38387525</guid>
+            <pubDate>Wed, 21 Dec 2016 06:35:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/179FD/production/_93056769_hi036970970.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan cancels failed $9bn Monju nuclear reactor]]></title>
+            <description><![CDATA[Japan scraps a 22-year-old experimental nuclear reactor that has cost $9bn but barely ever worked.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38390504</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38390504</guid>
+            <pubDate>Wed, 21 Dec 2016 11:09:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/98C2/production/_93060193_f78f4d43-1324-4f74-b973-e0a951d484cb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iron 'jet stream' detected in Earth's outer core]]></title>
+            <description><![CDATA[Scientists say Earth's outer core contains a kind of "jet stream" - a fast-flowing river of liquid iron that is surging westwards under Alaska and Siberia.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38372342</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38372342</guid>
+            <pubDate>Mon, 19 Dec 2016 17:56:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/80CD/production/_93037923_earth_s_stormy_heart.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Casper octopod under threat from deep sea mining']]></title>
+            <description><![CDATA[A deep sea octopod, dubbed Casper after the film ghost, may be at risk from mining, scientists say.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38366118</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38366118</guid>
+            <pubDate>Mon, 19 Dec 2016 19:14:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4775/production/_93039281_courtesyofnoaaofficeofoceanexplorationandresearchhohonumoana2016.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brexit uncertainty 'corrosive' for science]]></title>
+            <description><![CDATA[Uncertainty over the nature of the UK's future relationship with the EU is having a "corrosive" effect on science.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38366964</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38366964</guid>
+            <pubDate>Tue, 20 Dec 2016 10:58:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14EA7/production/_89317658_gettyimages-463580720.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prostate cancer laser treatment 'truly transformative']]></title>
+            <description><![CDATA[Surgeons describe a new treatment for early stage prostate cancer as "truly transformative".]]></description>
+            <link>http://www.bbc.co.uk/news/health-38304076</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38304076</guid>
+            <pubDate>Tue, 20 Dec 2016 08:59:52 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/0546/production/_93005310_de33.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laser helps unlock antimatter secrets]]></title>
+            <description><![CDATA[Scientists at Cern have found a new way to unlock the secrets of antimatter.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38366963</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38366963</guid>
+            <pubDate>Mon, 19 Dec 2016 19:16:42 GMT</pubDate>
+            <media:thumbnail width="1414" height="795" url="http://c.files.bbci.co.uk/11C6D/production/_93031827_mediaitem93031826.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prehistoric porridge? First pots for plant cooking found]]></title>
+            <description><![CDATA[Prehistoric pottery shows plants and grains were cooked as early as 10,000 years ago.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38366109</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38366109</guid>
+            <pubDate>Mon, 19 Dec 2016 16:49:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E8E7/production/_93032695_seeds.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK fishing industry 'will need EU market access' post Brexit]]></title>
+            <description><![CDATA[The UK fishing industry will need continued access to EU markets post-Brexit, a Lords report warns.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38345826</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38345826</guid>
+            <pubDate>Sat, 17 Dec 2016 01:06:40 GMT</pubDate>
+            <media:thumbnail width="464" height="261" url="http://c.files.bbci.co.uk/EDA8/production/_93004806_gettyimages-3054658-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Phone seismometers' prove their worth]]></title>
+            <description><![CDATA[An app that turns a smartphone into an earthquake detector helps citizens monitor tremors.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38349755</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38349755</guid>
+            <pubDate>Sat, 17 Dec 2016 01:12:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/45F0/production/_88240971_img_2966.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antarctic 'pole of ignorance' finally addressed]]></title>
+            <description><![CDATA[European scientists have flown instruments back and forth across the South Pole to map its hidden depths.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38333629</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38333629</guid>
+            <pubDate>Thu, 15 Dec 2016 22:01:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1357D/production/_92992297_fix2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico bid to save world's smallest vaquita porpoise]]></title>
+            <description><![CDATA[Mexican authorities try to save the world's smallest porpoise by seizing illegal fishing nets.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-38339483</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-38339483</guid>
+            <pubDate>Fri, 16 Dec 2016 12:01:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CEE9/production/_92996925_porpoiseafp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Road-free areas need better protection, study says]]></title>
+            <description><![CDATA[A global map of areas without roads shows large tracts of wilderness remain unprotected.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38319637</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38319637</guid>
+            <pubDate>Fri, 16 Dec 2016 01:38:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E6E3/production/_92970195_ibisch7hr-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Former Nasa chief scientist says access to federal data is critical]]></title>
+            <description><![CDATA[Limiting access to federal research would do an "enormous disservice" to the US and the world according to former Nasa chief scientist.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38322594</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38322594</guid>
+            <pubDate>Thu, 15 Dec 2016 17:55:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11241/production/_92990207_global-sst.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earth’s driest desert once had lakes]]></title>
+            <description><![CDATA[The Atacama Desert - the driest desert on Earth - may once have had lakes and wetlands, scientists report.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38330526</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38330526</guid>
+            <pubDate>Thu, 15 Dec 2016 18:02:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CD9E/production/_92983625_mediaitem92983624.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Light pollution dampens urban robins' song]]></title>
+            <description><![CDATA[The song and behaviour of the UK's favourite bird is being affected by light and noise pollution, a study reveals.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38317255</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38317255</guid>
+            <pubDate>Thu, 15 Dec 2016 10:56:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C2D4/production/_92967894_mediaitem92967892.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sentinels map Earth's slow surface warping]]></title>
+            <description><![CDATA[British researchers are now routinely mapping a great swathe of Earth's surface, looking for the subtle warping that ultimately leads to quakes.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38323832</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38323832</guid>
+            <pubDate>Wed, 14 Dec 2016 21:02:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://news.bbcimg.co.uk/media/images/72338000/png/_72338224_sentinel-1-artist-view-1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[EU's Galileo satellite system goes live after 17 years]]></title>
+            <description><![CDATA[Europe launches its long-delayed Galileo satellite system, aiming to be the world's most accurate.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38329341</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38329341</guid>
+            <pubDate>Thu, 15 Dec 2016 13:39:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17EB0/production/_89786979_artist_s_view_of_a_galileo_full_operational_capability_foc_satellite.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World's hottest borehole nearly complete]]></title>
+            <description><![CDATA[Geologists in Iceland are drilling into the heart of a volcano to create a super-hot borehole they can tap for energy.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38296251</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38296251</guid>
+            <pubDate>Wed, 14 Dec 2016 22:41:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4F53/production/_92970302_mediaitem92970300.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babies made from three people approved in UK]]></title>
+            <description><![CDATA[Babies made from two women and one man win approval from the UK's fertility regulator.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38328097</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38328097</guid>
+            <pubDate>Thu, 15 Dec 2016 11:28:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/184BE/production/_92981599_m8250874-paediatric_examination-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New marine life found in deep sea vents]]></title>
+            <description><![CDATA[Six new animal species are identified at deep-sea vents beneath the Indian Ocean.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38305989</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38305989</guid>
+            <pubDate>Thu, 15 Dec 2016 03:41:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/165AE/production/_92966519_ventlife_at_seafloor.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China finds new love for wildlife films]]></title>
+            <description><![CDATA[British-Chinese cameraman Jacky Poon is one of a few professionals documenting endangered animals in China.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-china-38349285</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-china-38349285</guid>
+            <pubDate>Mon, 19 Dec 2016 00:20:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/7FD2/production/_93022723_p04lq5b8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A walk through a laser-scanned forest]]></title>
+            <description><![CDATA[Why scientists are weighing the rainforests with lasers.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38335348</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38335348</guid>
+            <pubDate>Fri, 16 Dec 2016 00:02:14 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/150C1/production/_92990268_mediaitem92990265.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pegasus rocket launches from underside of plane]]></title>
+            <description><![CDATA[Small satellites, meant to detect wind speed in stormy weather, blast off over Cape Canaveral on an air-launched rocket.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38330495</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38330495</guid>
+            <pubDate>Thu, 15 Dec 2016 16:05:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12230/production/_92988247_p04lk9np.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How do you drill into a 500C volcano?]]></title>
+            <description><![CDATA[Scientists in Iceland are drilling in to a volcano to harness the energy from beneath the Earth.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38324177</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38324177</guid>
+            <pubDate>Wed, 14 Dec 2016 22:50:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1443/production/_92978150_mediaitem92978149.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Planet Earth II: Attenborough's epic sign off]]></title>
+            <description><![CDATA[Watch David Attenborough's epic sign off as the acclaimed Planet Earth II came to its conclusion on Sunday night on BBC One.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38297025</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38297025</guid>
+            <pubDate>Mon, 12 Dec 2016 23:39:23 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/16D5E/production/_92943539_p04l51y7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Urban beekeeping creating a buzz]]></title>
+            <description><![CDATA[With concern about the decline of bees in the UK, the University of London has created an oasis for the insects on a rooftop.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38279150</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38279150</guid>
+            <pubDate>Mon, 12 Dec 2016 00:08:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6EAD/production/_92933382_p04l2s30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Dead or alive' cat in physics top 10]]></title>
+            <description><![CDATA[The detection of ripples in space-time and the famous Schrödinger's Cat paradox feature in a list of 2016's physics breakthroughs.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38302759</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38302759</guid>
+            <pubDate>Tue, 13 Dec 2016 12:53:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11887/production/_92951817_c0068884-schrodinger_s_cat_artwork-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guerrilla archiving]]></title>
+            <description><![CDATA[Canadian "guerrilla" archivists will help in scramble to preserve US federal climate data.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38324045</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38324045</guid>
+            <pubDate>Thu, 15 Dec 2016 00:51:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/74AB/production/_92976892_smoke_976getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Great' message]]></title>
+            <description><![CDATA[Land Speed Record holder Andy Green has been visiting India to share insights about the Bloodhound supersonic car.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38319397</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38319397</guid>
+            <pubDate>Wed, 14 Dec 2016 14:34:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1230C/production/_91380547_back34_pic-credit_flock-london.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Viral virus]]></title>
+            <description><![CDATA[British researchers are using social media to track the spread of norovirus.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-trending-38227094</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-trending-38227094</guid>
+            <pubDate>Tue, 13 Dec 2016 00:54:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11A87/production/_92872327_mediaitem53651928.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starry starry nights]]></title>
+            <description><![CDATA[Stunning photographs of starry nights over South East Asia]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-38188057</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-38188057</guid>
+            <pubDate>Mon, 12 Dec 2016 00:48:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1ED2/production/_92809870_1024caters_nightscapes_02.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[To boldly go]]></title>
+            <description><![CDATA[The BBC meets three Indian female scientists who prove that rocket science is not a male preserve.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-india-38253471</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-india-38253471</guid>
+            <pubDate>Mon, 12 Dec 2016 02:07:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13E7D/production/_92933518_bbc-isro-43.jpg"/>
+        </item>
+    </channel>
+</rss>
