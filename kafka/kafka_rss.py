@@ -12,10 +12,16 @@ import os
 root_dir = 'newsfeeds/'
 
 # verbose output or brief (True => Verbose, False => short output)
-verbose = False
+verbose = True
+
+# try to filter out by stray HTML tags "<"
+filt = False
+
+# descriptions flag
+desc_on = True
 
 ##################################################
-###############                    ############### 
+############### Scraping XML files ############### 
 ##################################################
 
 for filerss in os.listdir(root_dir):
@@ -29,7 +35,11 @@ for filerss in os.listdir(root_dir):
     rss_item_guids = rss_file.xpath('//channel/item/guid')
 
     for i in range(len(rss_item_titles)):
-        if verbose == True:
-            print(rss_item_titles[i].text,"|",rss_item_descs[i].text,"|",rss_item_pubdates[i].text,"|",rss_item_guids[i].text,"|",rss_root_title.text,"|",rss_root_builddate.text)
+        if verbose == True and filt == True:
+            print(rss_item_titles[i].text,"|",rss_item_descs[i].text.split("<")[0],"|",rss_item_pubdates[i].text,"|",rss_item_guids[i].text,"|",rss_root_title[0].text)#,"|",rss_root_builddate[0].text)
+        elif verbose == True and filt == False :
+            print(rss_item_titles[i].text,"|",rss_item_descs[i].text,"|",rss_item_pubdates[i].text,"|",rss_item_guids[i].text,"|",rss_root_title[0].text)#,"|"#,rss_root_builddate[0].text)
+        elif verbose == False and filt == True:
+            print(rss_item_titles[i].text,"|",rss_item_descs[i].text.split("<")[0],"|",rss_item_pubdates[i].text)
         else:
             print(rss_item_titles[i].text,"|",rss_item_descs[i].text,"|",rss_item_pubdates[i].text)
