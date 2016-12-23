@@ -108,6 +108,9 @@ def itemdetail(read_file, verbose = True, getguid = False, localGuid = True, mas
         else:
             rss_articles.append([itemtitle,itemdesc])
 
+    # Flatten GUID file to prevent duplicates being missed through nesting lists
+    guidlist = list(chain(*guidlist))
+
     if getguid == True:
         return guidlist
     return rss_articles

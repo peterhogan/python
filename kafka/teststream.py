@@ -4,6 +4,7 @@
 from kafka import KafkaProducer
 from lxml import etree
 import urllib.request
+import shutil
 import re
 import os, errno
 
@@ -21,6 +22,13 @@ def size_format(x, suffix='B'):
         x /= 1024.0
     return "%.1f%s%s" % (x, 'Yi', suffix)
 
+# check the required news feeds directory exists
+try:
+    os.makedirs('newsfeeds')
+except OSError as exception:
+    if exception.errno != errno.EEXIST:
+        raise
+
 # specify the location of the feed file (text file full of rss links)
 rssfeedfile = 'rssfeeds.txt'
 
@@ -35,9 +43,9 @@ else:
     quit('Now exiting, no files downloaded')
 
 
-###################################################
-######### Define the ancilliary functions ######### 
-###################################################
+#########################################################################
+######### Define the main XML parsing/Stream publisher function ######### 
+#########################################################################
 
 
 # function to read the root titles from an already-parsed rss xml file
@@ -58,6 +66,39 @@ def BuildDates(read_file):
         buildout = ' ' 
     return buildout
 
+
+def PublishArticle(read_file):
+    # Get the item title
+    print('getting item title')
+    try:
+        itemtitle = read_file.xpath('//channel/item/title')[i].text
+        print(itemtitle)
+    except IndexError:
+        itemtitle = 'NO ITEM TITLE FOUND'
+
+    # Get the item Description and remove any html tags
+    print('getting item desc')
+    try:
+        itemdescpre = read_file.xpath('//channel/item/description')[i].text
+        itemdescsoup = BeautifulSoup(itemdescpre, "lxml")
+        itemdesc = itemdescsoup.get_text()
+        print(itemdesc)
+    except IndexError:
+        itemdesc = ' ' 
+
+    # Get Publish Dates
+    try:
+        itempubdate = read_file.xpath('//channel/item/pubDate')[i].text
+    except IndexError:
+        itempubdate = ' ' 
+
+    print('forming article:')
+    rss_article = print(itemtitle,sep,itemdesc,sep,itempubdate)
+    rss_article
+
+    return
+
+
 ###################################
 ######### Start Streaming ######### 
 ###################################
@@ -71,38 +112,12 @@ with open(rssfeedfile) as feedsources:
 
 # pull out the news sources one by one
 for feed in rssfeeds:
+
     if feed.startswith('http'):
-        # open and save the global guid file into guid_list (slow - alternative?)
-        with open(globalGUID, 'r') as masterGUID:
-            guid_list = masterGUID.read().splitlines()
-
         # download the file by url
-        try:
-            response = urllib.request.urlopen(feed)
-        except http.client.RemoteDisconnected:
-            continue
+        response = urllib.request.urlopen(feed)
         rssfile = etree.parse(response)
-
-        # get root title with RootTitle function
-        itemroottitle = RootTitles(rssfile)
-
-        # get build date with BuildDates function (if possible)
-        itemrootdate = BuildDates(rssfile)
-
         for i in range(len(rssfile.xpath('//channel/item'))):
-
-            # Get GUID and pass iteration if it already exists
-            try:
-                itemguid = rssfile.xpath('//channel/item/guid')[i].text
-            except IndexError:
-                itemguid = rssfile.xpath('//channel/item/title')[i].text
-
-            if itemguid in guid_list:
-                continue
-            else:
-                with open(globalGUID, 'a+') as masterGUIDw:
-                    masterGUIDw.write(str(itemguid)+'\n')
-
             # Get the item title
             try:
                 itemtitle = rssfile.xpath('//channel/item/title')[i].text
@@ -114,7 +129,7 @@ for feed in rssfeeds:
                 itemdescpre = rssfile.xpath('//channel/item/description')[i].text
                 itemdescsoup = BeautifulSoup(itemdescpre, "lxml")
                 itemdesc = itemdescsoup.get_text()
-            except (TypeError, IndexError):
+            except IndexError:
                 itemdesc = ' ' 
 
             # Get Publish Dates
@@ -123,39 +138,8 @@ for feed in rssfeeds:
             except IndexError:
                 itempubdate = ' ' 
 
-            rss_article_tuple = (itemtitle,itemdesc,itempubdate,itemguid,itemroottitle,itemrootdate)
+            rss_article_tuple = (itemtitle,itemdesc,itempubdate)
             rss_article = ' | '.join(rss_article_tuple)
-
             producer.send('python-test', rss_article.encode('utf-8'))
-
-    # Flatten GUID file to prevent duplicates being missed through nested lists
-    #guidlist = list(chain(*guidlist))
-
     else:
         continue
-
-'''
-# start the kafka producer
-producer = KafkaProducer(bootstrap_servers='localhost:9092')
-
-# Open the rssfeeds text file for parsing
-with open(rssfeedfile) as feedsources:
-    rssfeeds = feedsources.read().splitlines()
-
-# pull out the news sources one by one
-for feed in rssfeeds:
-
-    # add in counters to publish when finished
-
-    if feed.startswith('http'):
-        # download the file by url
-        try:
-            response = urllib.request.urlopen(feed)
-            rssfile = etree.parse(response)
-            PublishArticles(rssfile, masterGUIDFile = globalGUID, kafka_producer = producer, kafka_topic = 'python-test')
-        except: # need all urllib error types here
-            continue
-    else:
-        continue
-
-'''

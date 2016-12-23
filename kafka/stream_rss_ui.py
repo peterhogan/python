@@ -6,6 +6,8 @@ from lxml import etree
 import urllib.request
 import re
 import os, errno
+from time import time
+from datetime import timedelta
 
 from kfk_rss_read import *
 
@@ -34,6 +36,8 @@ if cont == 'y':
 else:
     quit('Now exiting, no files downloaded')
 
+# start timer
+start = time()
 
 ###################################################
 ######### Define the ancilliary functions ######### 
@@ -69,6 +73,14 @@ producer = KafkaProducer(bootstrap_servers='localhost:9092')
 with open(rssfeedfile) as feedsources:
     rssfeeds = feedsources.read().splitlines()
 
+# define the counter variables:
+filesread = 0
+articlessent = 0
+duplicates = 0
+#timestreaming = 0
+#kafkainstance = 
+#totaldownload = 0
+
 # pull out the news sources one by one
 for feed in rssfeeds:
     if feed.startswith('http'):
@@ -76,12 +88,18 @@ for feed in rssfeeds:
         with open(globalGUID, 'r') as masterGUID:
             guid_list = masterGUID.read().splitlines()
 
+        # increment the files read counter
+        filesread += 1
+
         # download the file by url
         try:
             response = urllib.request.urlopen(feed)
         except http.client.RemoteDisconnected:
             continue
-        rssfile = etree.parse(response)
+        try:
+            rssfile = etree.parse(response)
+        except lxml.etree.XMLSyntaxError:
+            continue
 
         # get root title with RootTitle function
         itemroottitle = RootTitles(rssfile)
@@ -98,6 +116,8 @@ for feed in rssfeeds:
                 itemguid = rssfile.xpath('//channel/item/title')[i].text
 
             if itemguid in guid_list:
+                # increment the duplicates counter then skip
+                duplicates += 1
                 continue
             else:
                 with open(globalGUID, 'a+') as masterGUIDw:
@@ -128,34 +148,18 @@ for feed in rssfeeds:
 
             producer.send('python-test', rss_article.encode('utf-8'))
 
+            articlessent += 1
+
+            #sys.stdout.write("\r%i" % counter  )    
+            #sys.stdout.flush()
+
     # Flatten GUID file to prevent duplicates being missed through nested lists
     #guidlist = list(chain(*guidlist))
 
     else:
         continue
-
-'''
-# start the kafka producer
-producer = KafkaProducer(bootstrap_servers='localhost:9092')
-
-# Open the rssfeeds text file for parsing
-with open(rssfeedfile) as feedsources:
-    rssfeeds = feedsources.read().splitlines()
-
-# pull out the news sources one by one
-for feed in rssfeeds:
-
-    # add in counters to publish when finished
-
-    if feed.startswith('http'):
-        # download the file by url
-        try:
-            response = urllib.request.urlopen(feed)
-            rssfile = etree.parse(response)
-            PublishArticles(rssfile, masterGUIDFile = globalGUID, kafka_producer = producer, kafka_topic = 'python-test')
-        except: # need all urllib error types here
-            continue
-    else:
-        continue
-
-'''
+totaltime = time() - start
+print('Files read:', filesread)
+print('Articles sent:', articlessent)
+print('Duplicate articles:', duplicates)
+print('Time taken:',str(timedelta(seconds=totaltime)))
