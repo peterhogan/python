@@ -12,8 +12,8 @@ for i in range(10):
     k+=3
     l+=43
     sleep(0.1)
-    print('\rFiles read:',i,end="\n")
-    print('\rFiles read:',i,end="\r")
+    print('\rFiles read:',i,end="")
+    sys.stdout.flush()
     '''
     \rFiles skipped: %i 
     \rGUID log file size: %i

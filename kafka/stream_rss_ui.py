@@ -8,6 +8,7 @@ import re
 import os, errno
 from time import time
 from datetime import timedelta
+import sys
 
 from kfk_rss_read import *
 
@@ -30,11 +31,11 @@ rssfeedfile = 'rssfeeds.txt'
 globalGUID = 'globalGUID.log'
 
 # check before streaming
-cont = input("Start streaming %s? (y/n) " % rssfeedfile)
-if cont == 'y':
-    pass
-else:
-    quit('Now exiting, no files downloaded')
+#cont = input("Start streaming %s? (y/n) " % rssfeedfile)
+#if cont == 'y':
+#    pass
+#else:
+#    quit('Now exiting, no files downloaded')
 
 # start timer
 start = time()
@@ -98,7 +99,7 @@ for feed in rssfeeds:
             continue
         try:
             rssfile = etree.parse(response)
-        except XMLSyntaxError:
+        except etree.XMLSyntaxError:
             continue
 
         # get root title with RootTitle function
@@ -148,10 +149,11 @@ for feed in rssfeeds:
 
             producer.send('python-test', rss_article.encode('utf-8'))
 
+
             articlessent += 1
 
-            #sys.stdout.write("\r%i" % counter  )    
-            #sys.stdout.flush()
+            print("\rSource:",itemroottitle,"Article:",itemtitle,end="")
+            sys.stdout.flush()
 
     # Flatten GUID file to prevent duplicates being missed through nested lists
     #guidlist = list(chain(*guidlist))
@@ -163,3 +165,4 @@ print('Files read:', filesread)
 print('Articles sent:', articlessent)
 print('Duplicate articles:', duplicates)
 print('Time taken:',str(timedelta(seconds=totaltime)))
+print('Size of globalGUID.log:', size_format(int(os.stat(globalGUID).st_size)))
