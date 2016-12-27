@@ -98,7 +98,7 @@ for feed in rssfeeds:
             continue
         try:
             rssfile = etree.parse(response)
-        except lxml.etree.XMLSyntaxError:
+        except XMLSyntaxError:
             continue
 
         # get root title with RootTitle function
