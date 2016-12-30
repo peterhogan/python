@@ -48,20 +48,33 @@ start = time()
 ######### Start Receiving ######### 
 ###################################
 
+# define masterlog
+masterlog ='masterlog.txt'
+
 # define the counter variables:
 filesread = 0
 
+# create a list for all articles
+all_articles = []
 
 # start the kafka consumer
+#consumer = KafkaConsumer('python-test',
+#                         fetch_min_bytes=300000,
+#                         fetch_max_wait=300000,
+#                         auto_commit_interval_ms=1000,
+#                         max_poll_records=10,
+#                         bootstrap_servers=['localhost:9092'])
+
 consumer = KafkaConsumer('python-test',
                          bootstrap_servers=['localhost:9092'])
 
 register(Ending,consumer)
 
-#consumer.subscribe('python-test')
-
 # read messages
-for msg in consumer:
-    filesread += 1
-    #print("%s:%d:%d: key=%s value=%s" % ( msg.topic, msg.partition, msg.offset, msg.key, msg.value ))
-    print(msg.offset,msg.value.decode('utf-8'))
+with open(masterlog, 'a+') as master:
+    for msg in consumer:
+        while filesread < 11:
+            filesread += 1
+            master.write(msg.value.decode('utf-8')+'\n')
+
+print(all_articles)

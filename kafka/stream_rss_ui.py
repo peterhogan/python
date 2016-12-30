@@ -95,7 +95,7 @@ for feed in rssfeeds:
         # download the file by url
         try:
             response = urllib.request.urlopen(feed)
-        except http.client.RemoteDisconnected:
+        except RemoteDisconnected:
             continue
         try:
             rssfile = etree.parse(response)
@@ -152,8 +152,7 @@ for feed in rssfeeds:
 
             articlessent += 1
 
-            print("\rSource:",itemroottitle,"Article:",itemtitle,end="")
-            sys.stdout.flush()
+            print("Source:",itemroottitle,"Article:",itemtitle)
 
     # Flatten GUID file to prevent duplicates being missed through nested lists
     #guidlist = list(chain(*guidlist))
@@ -161,7 +160,7 @@ for feed in rssfeeds:
     else:
         continue
 totaltime = time() - start
-print('Files read:', filesread)
+print('\nFiles read:', filesread)
 print('Articles sent:', articlessent)
 print('Duplicate articles:', duplicates)
 print('Time taken:',str(timedelta(seconds=totaltime)))
