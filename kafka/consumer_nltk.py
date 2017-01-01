@@ -71,10 +71,16 @@ consumer = KafkaConsumer('python-test',
 register(Ending,consumer)
 
 # read messages
+#with open(masterlog, 'a+') as master:
+#    for msg in consumer:
+#        if filesread < 10:
+#            filesread += 1
+#            master.write(msg.value.decode('utf-8')+'\n')
+#        else: break
+
 with open(masterlog, 'a+') as master:
     for msg in consumer:
-        while filesread < 11:
-            filesread += 1
-            master.write(msg.value.decode('utf-8')+'\n')
+        filesread += 1
+        master.write(msg.value.decode('utf-8')+'\n')
 
 print(all_articles)
