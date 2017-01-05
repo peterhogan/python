@@ -152,7 +152,10 @@ for feed in rssfeeds:
 
             articlessent += 1
 
-            print("Source:",itemroottitle,"Article:",itemtitle)
+            try:
+                print("Source:",itemroottitle,"Article:",itemtitle)
+            except UnicodeEncodeError:
+                continue
 
     # Flatten GUID file to prevent duplicates being missed through nested lists
     #guidlist = list(chain(*guidlist))

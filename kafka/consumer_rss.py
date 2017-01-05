@@ -64,4 +64,7 @@ register(Ending,consumer)
 for msg in consumer:
     filesread += 1
     #print("%s:%d:%d: key=%s value=%s" % ( msg.topic, msg.partition, msg.offset, msg.key, msg.value ))
-    print(msg.offset,msg.value.decode('utf-8'))
+    try:
+        print(msg.offset,msg.value.decode('utf-8'))
+    except UnicodeEncodeError:
+        continue
