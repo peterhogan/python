@@ -2,6 +2,7 @@
 ############### Imports ############### 
 #######################################
 from kafka import KafkaProducer
+import kafka
 from lxml import etree
 import urllib.request
 import re
@@ -68,7 +69,12 @@ def BuildDates(read_file):
 ###################################
 
 # start the kafka producer
-producer = KafkaProducer(bootstrap_servers='localhost:9092')
+try:
+    producer = KafkaProducer(bootstrap_servers='localhost:9092')
+except kafka.errors.NoBrokersAvailable:
+    print("##### No brokers found running #####")
+    print("Ensure Zookeeper and Kakfa are running and retry")
+    quit()
 
 # Open the rssfeeds text file for parsing
 with open(rssfeedfile) as feedsources:
