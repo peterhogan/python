@@ -12,8 +12,8 @@ def change_color():
 
 while True:
     hour = 0
-    while hour < 3:
-        sleep(9000)
+    while hour < 4:
+        sleep(900)
         root = Tk()
         box = Text(root, background="blue")
         box.pack()
