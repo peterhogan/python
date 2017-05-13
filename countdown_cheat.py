@@ -5,13 +5,14 @@ words = []
 
 word = input("enter the word: ")
 
-upper = int(input("smallest length word? "))
+lower = int(input("smallest length word? "))
 
-
-for i in range(upper,len(list(word))+1):
-	for j in list(permutations(list(word),r=i)):
-		if d.check(''.join(j))==True and ''.join(j) not in words:
-			#print(''.join(j))
-			words.append(''.join(j))
+for i in range(lower,len(list(word))+1):
+    allperms = list(permutations(list(word),r=i))
+    for j in allperms:
+        wrd = ''.join(j)
+        wcheck = d.check(wrd)
+        if wcheck and wrd not in words:
+            words.append(wrd)
 
 print(', '.join(words))
