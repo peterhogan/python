@@ -9,8 +9,8 @@ def collatz():
 		else:
 			entry = (entry*3)+1
 		steps += 1
-		print entry
-	print "Done! In %d steps." % steps
+		print(entry)
+	print("Done! In %d steps." % steps)
 
 def collatz_iter(limit):
 	for i in range(2,limit+1):
@@ -22,7 +22,7 @@ def collatz_iter(limit):
 			else:
 				i = (i*3)+1
 			steps += 1
-		print "%d took %d steps" % (j, steps)
+		print("%d took %d steps" % (j, steps))
 def coll_supp(n):
 	steps = 0
 	while n != 1:
@@ -42,7 +42,7 @@ again = 'y'
 
 i=2
 while 0!=1:
-	print "%d took %d steps." %(i, coll_supp(i))
+	print("%d took %d steps." %(i, coll_supp(i)))
 	i += 1
 	#sleep(0.1)	
 
